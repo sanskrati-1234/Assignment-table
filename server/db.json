@@ -1,0 +1,8004 @@
+{
+  "characters": [
+    {
+      "id": "ddc7e67e-7adc-4ef5-ab44-dde13cb5cc03",
+      "name": "Ninja 1",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1448,
+      "viewed": false
+    },
+    {
+      "id": "7880e68f-7268-47ea-9baa-0f19a504a337",
+      "name": "Ninja 2",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2187,
+      "viewed": false
+    },
+    {
+      "id": "cfde155a-e461-4173-b58a-d023376478e4",
+      "name": "Ninja 3",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1968,
+      "viewed": false
+    },
+    {
+      "id": "53b6ad11-5325-4f84-ba72-e38d2ab105a8",
+      "name": "Ninja 4",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9329,
+      "viewed": false
+    },
+    {
+      "id": "c7cf188b-12ec-4b64-a838-eb3dc5cef168",
+      "name": "Ninja 5",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9650,
+      "viewed": false
+    },
+    {
+      "id": "0698e104-b18b-4c41-9f9f-8249116d587f",
+      "name": "Ninja 6",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 968,
+      "viewed": false
+    },
+    {
+      "id": "d26aa3e7-7bb0-4572-bf90-850e02dceb4d",
+      "name": "Ninja 7",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6857,
+      "viewed": false
+    },
+    {
+      "id": "f94aa60d-f013-4904-8fd6-406930963cda",
+      "name": "Ninja 8",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8555,
+      "viewed": false
+    },
+    {
+      "id": "c2e96828-5d9d-42fb-b08d-6865b10b2be3",
+      "name": "Ninja 9",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1178,
+      "viewed": false
+    },
+    {
+      "id": "2a1b9a5f-1d7c-488b-aefe-9a0c663fd557",
+      "name": "Ninja 10",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6123,
+      "viewed": false
+    },
+    {
+      "id": "dbb0a581-877b-4701-9b2d-a6e3ceb9335e",
+      "name": "Ninja 11",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1395,
+      "viewed": false
+    },
+    {
+      "id": "5c2b2273-44f5-41ed-9fbf-ac09762fb936",
+      "name": "Ninja 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 142,
+      "viewed": false
+    },
+    {
+      "id": "fa115619-e913-4472-bfca-c3fa6a643e5f",
+      "name": "Ninja 13",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5104,
+      "viewed": false
+    },
+    {
+      "id": "f290dcb6-c6c4-47a7-b7dc-bf596dc52849",
+      "name": "Ninja 14",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 152,
+      "viewed": false
+    },
+    {
+      "id": "07a9ccb7-8317-45e4-a160-361c86b5cec9",
+      "name": "Ninja 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4307,
+      "viewed": false
+    },
+    {
+      "id": "e63c7a1f-1937-4d4f-abce-486f34c7ddee",
+      "name": "Ninja 16",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8921,
+      "viewed": false
+    },
+    {
+      "id": "6c2f72f9-d99f-4d12-b382-cfe7fca40906",
+      "name": "Ninja 17",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8303,
+      "viewed": false
+    },
+    {
+      "id": "eaab6fe9-5851-4986-ac05-35a6ef2cade9",
+      "name": "Ninja 18",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1967,
+      "viewed": false
+    },
+    {
+      "id": "e6febbb9-7fa6-456a-a21f-27a73c928856",
+      "name": "Ninja 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1109,
+      "viewed": false
+    },
+    {
+      "id": "628aa417-05c6-4023-adaf-0df204dd87be",
+      "name": "Ninja 20",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3230,
+      "viewed": false
+    },
+    {
+      "id": "8bdb18b3-7960-4832-adb7-2729d4b4b7b7",
+      "name": "Ninja 21",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3322,
+      "viewed": false
+    },
+    {
+      "id": "bd8fc0e7-d23e-4647-bbc4-cbf16c8225ed",
+      "name": "Ninja 22",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6069,
+      "viewed": false
+    },
+    {
+      "id": "d58620bf-3887-47cc-91fc-24327116ee07",
+      "name": "Ninja 23",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7984,
+      "viewed": false
+    },
+    {
+      "id": "2fc32115-f5fb-4528-ad9d-2d2b453a9e37",
+      "name": "Ninja 24",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3035,
+      "viewed": false
+    },
+    {
+      "id": "9dc4e435-bb42-42d3-90a8-4b03b14bcfb9",
+      "name": "Ninja 25",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1162,
+      "viewed": false
+    },
+    {
+      "id": "cc511133-0820-4179-b6e2-907d61bfb1d3",
+      "name": "Ninja 26",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2722,
+      "viewed": false
+    },
+    {
+      "id": "d6fda0cc-1494-4cd2-9e47-227268a9de90",
+      "name": "Ninja 27",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8388,
+      "viewed": false
+    },
+    {
+      "id": "50a6222d-2e4d-47f7-a81e-774bbb0fe7a1",
+      "name": "Ninja 28",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1596,
+      "viewed": false
+    },
+    {
+      "id": "55313d2f-1716-428a-9504-32032891f1a3",
+      "name": "Ninja 29",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8926,
+      "viewed": false
+    },
+    {
+      "id": "ba08cbb5-f8f1-4629-93af-d76653527f1d",
+      "name": "Ninja 30",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3524,
+      "viewed": false
+    },
+    {
+      "id": "c5d37f49-9969-4088-a736-27610fd679d6",
+      "name": "Ninja 31",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7403,
+      "viewed": false
+    },
+    {
+      "id": "bf0576b4-da13-4059-82fd-b978a79cf06c",
+      "name": "Ninja 32",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4068,
+      "viewed": false
+    },
+    {
+      "id": "cfa04002-f13c-420e-bf2f-75c186168553",
+      "name": "Ninja 33",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4123,
+      "viewed": false
+    },
+    {
+      "id": "ca933710-5afc-49e9-96fe-9ca19c6a4099",
+      "name": "Ninja 34",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5818,
+      "viewed": false
+    },
+    {
+      "id": "c3cdbebe-851e-4874-b73c-f78cbcd38ea5",
+      "name": "Ninja 35",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1138,
+      "viewed": false
+    },
+    {
+      "id": "103da1ef-649d-40e6-9286-8d892622d012",
+      "name": "Ninja 36",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8799,
+      "viewed": false
+    },
+    {
+      "id": "cf3c5644-3c0f-42f5-b636-091a30ecce42",
+      "name": "Ninja 37",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8390,
+      "viewed": false
+    },
+    {
+      "id": "49f1b259-580e-45e0-88ea-9b094830ee24",
+      "name": "Ninja 38",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6316,
+      "viewed": false
+    },
+    {
+      "id": "8bcd708e-a9ec-46d8-8c9d-9061a3e2a9d3",
+      "name": "Ninja 39",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 426,
+      "viewed": false
+    },
+    {
+      "id": "c9839e42-9d10-48ae-895c-de7f2fb07d81",
+      "name": "Ninja 40",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6122,
+      "viewed": false
+    },
+    {
+      "id": "9f70f365-30a7-41ef-84ca-25d0e0b5118d",
+      "name": "Ninja 41",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5225,
+      "viewed": false
+    },
+    {
+      "id": "9eaaa91c-3817-487b-a23f-c46de9898768",
+      "name": "Ninja 42",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 607,
+      "viewed": false
+    },
+    {
+      "id": "bd0583d0-1abf-4633-b993-e1c6e656bb81",
+      "name": "Ninja 43",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5680,
+      "viewed": false
+    },
+    {
+      "id": "b4d6902f-1e09-42d1-91b6-bdeae8ae7ba1",
+      "name": "Ninja 44",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8195,
+      "viewed": false
+    },
+    {
+      "id": "36ed1278-0199-42a3-bde3-20e8df4700bd",
+      "name": "Ninja 45",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6862,
+      "viewed": false
+    },
+    {
+      "id": "31421ace-ce86-4c56-898b-5b7ba134bfe6",
+      "name": "Ninja 46",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7113,
+      "viewed": false
+    },
+    {
+      "id": "ba92aa00-338e-4bc2-bad6-8a5de8b3d60d",
+      "name": "Ninja 47",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9311,
+      "viewed": false
+    },
+    {
+      "id": "a594bc30-25c6-4922-85d9-da3b88c672a4",
+      "name": "Ninja 48",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7894,
+      "viewed": false
+    },
+    {
+      "id": "1cc92823-bcc7-4dea-a937-5e8747bb2367",
+      "name": "Ninja 49",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4343,
+      "viewed": false
+    },
+    {
+      "id": "ab7abb6d-7aed-4161-9b0f-02b950c5a86d",
+      "name": "Ninja 50",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5214,
+      "viewed": false
+    },
+    {
+      "id": "1fa42fba-ae67-4892-a0a0-4478d201d6a0",
+      "name": "Ninja 51",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6057,
+      "viewed": false
+    },
+    {
+      "id": "beb0351c-feee-40de-8d8c-d961b50a7685",
+      "name": "Ninja 52",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4194,
+      "viewed": false
+    },
+    {
+      "id": "c553427e-3c24-4ff7-85c5-8bd59f012377",
+      "name": "Ninja 53",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2863,
+      "viewed": false
+    },
+    {
+      "id": "d778973d-5bcf-4d27-9ddf-42b2f1a94b50",
+      "name": "Ninja 54",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7754,
+      "viewed": false
+    },
+    {
+      "id": "62c43212-7e3f-4315-86aa-2d728137b799",
+      "name": "Ninja 55",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8778,
+      "viewed": false
+    },
+    {
+      "id": "dd0f2b2a-2951-43cd-b820-19a53866716a",
+      "name": "Ninja 56",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8521,
+      "viewed": false
+    },
+    {
+      "id": "af7ae04a-d6a0-4335-839c-73d3a13a30de",
+      "name": "Ninja 57",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6653,
+      "viewed": false
+    },
+    {
+      "id": "94fd298d-7758-4b81-9487-5457119220ad",
+      "name": "Ninja 58",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1274,
+      "viewed": false
+    },
+    {
+      "id": "2015dc9f-e562-4c72-af34-51f80901cfee",
+      "name": "Ninja 59",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 573,
+      "viewed": false
+    },
+    {
+      "id": "aaf0110d-cc13-47b8-af0d-539724c6be1d",
+      "name": "Ninja 60",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5881,
+      "viewed": false
+    },
+    {
+      "id": "93646bdf-e948-437f-953a-deccd0311af1",
+      "name": "Ninja 61",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5499,
+      "viewed": false
+    },
+    {
+      "id": "d271dd42-bb05-4bdf-a574-5ae5083266d2",
+      "name": "Ninja 62",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3424,
+      "viewed": false
+    },
+    {
+      "id": "f1ef104a-d765-447e-9eb9-c7296fe26cad",
+      "name": "Ninja 63",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8106,
+      "viewed": false
+    },
+    {
+      "id": "fdd7f875-7eea-4faa-a910-a80efb2fb95e",
+      "name": "Ninja 64",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2731,
+      "viewed": false
+    },
+    {
+      "id": "daad6d7e-0d70-462f-b11c-f74431ae9c72",
+      "name": "Ninja 65",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4697,
+      "viewed": false
+    },
+    {
+      "id": "1c53345a-dc7e-42f7-9b07-3fd352a2d868",
+      "name": "Ninja 66",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 218,
+      "viewed": false
+    },
+    {
+      "id": "1f3945b4-94bc-4dc3-a1d0-7f2702810464",
+      "name": "Ninja 67",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 295,
+      "viewed": false
+    },
+    {
+      "id": "82c1dce2-3e2e-4a79-a9e5-d29ae11e5b17",
+      "name": "Ninja 68",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6665,
+      "viewed": false
+    },
+    {
+      "id": "4da8f5b3-24fb-4660-b903-57b0409b0d27",
+      "name": "Ninja 69",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1445,
+      "viewed": false
+    },
+    {
+      "id": "772dfe98-b7bb-4f21-9f61-d3b8100d0746",
+      "name": "Ninja 70",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6898,
+      "viewed": false
+    },
+    {
+      "id": "71badfb4-4ee5-4c43-a228-b7103249692c",
+      "name": "Ninja 71",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 764,
+      "viewed": false
+    },
+    {
+      "id": "9469b825-2954-409e-a5a5-7366d1d4eb17",
+      "name": "Ninja 72",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3804,
+      "viewed": false
+    },
+    {
+      "id": "95e4592e-8199-416e-8c74-6cade4851311",
+      "name": "Ninja 73",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5480,
+      "viewed": false
+    },
+    {
+      "id": "0e6de257-b774-4eee-af78-d340f6b87559",
+      "name": "Ninja 74",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 164,
+      "viewed": false
+    },
+    {
+      "id": "8c8f027c-a79f-4373-b67d-a3dbe76024a9",
+      "name": "Ninja 75",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8313,
+      "viewed": false
+    },
+    {
+      "id": "471c372b-c1d7-4ddb-959e-5513fc37b6e5",
+      "name": "Ninja 76",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5234,
+      "viewed": false
+    },
+    {
+      "id": "a7d7da1d-7d61-42f1-9813-a76da52ddefe",
+      "name": "Ninja 77",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7561,
+      "viewed": false
+    },
+    {
+      "id": "35a664e8-cf44-4a87-a504-547fca70aade",
+      "name": "Ninja 78",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 774,
+      "viewed": false
+    },
+    {
+      "id": "f10fe81c-8da7-47d5-a8c4-ca7ddbc0d668",
+      "name": "Ninja 79",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5524,
+      "viewed": false
+    },
+    {
+      "id": "a42d5a46-7f75-4b17-b8ea-be612da01ca4",
+      "name": "Ninja 80",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4737,
+      "viewed": false
+    },
+    {
+      "id": "f78bde72-c950-4c67-b6ac-295ef3e254c3",
+      "name": "Ninja 81",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5340,
+      "viewed": false
+    },
+    {
+      "id": "9e12b26d-0690-42a4-a2b4-9f2c6025bf95",
+      "name": "Ninja 82",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7688,
+      "viewed": false
+    },
+    {
+      "id": "6d24b2c2-5a11-48f2-a0ef-259a0d64bfca",
+      "name": "Ninja 83",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1950,
+      "viewed": false
+    },
+    {
+      "id": "d07fecbd-0c1b-45e4-8f2f-e8a68c71f798",
+      "name": "Ninja 84",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7161,
+      "viewed": false
+    },
+    {
+      "id": "a8089075-1002-40ed-80ea-fbeedd589ca6",
+      "name": "Ninja 85",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 912,
+      "viewed": false
+    },
+    {
+      "id": "c9dc9dd2-3bd3-433f-b3cd-80e21735e0ee",
+      "name": "Ninja 86",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6515,
+      "viewed": false
+    },
+    {
+      "id": "92ecb0ac-3186-4dcf-b47c-34ce4bad90b4",
+      "name": "Ninja 87",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2460,
+      "viewed": false
+    },
+    {
+      "id": "ac0bb2e1-27f4-4a75-bf1e-4441a3274333",
+      "name": "Ninja 88",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1560,
+      "viewed": false
+    },
+    {
+      "id": "6bd77622-34c7-4c6b-a81b-ce3b34c20d56",
+      "name": "Ninja 89",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9114,
+      "viewed": false
+    },
+    {
+      "id": "7860d629-3daf-4282-bfbc-53b065a5a9df",
+      "name": "Ninja 90",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6532,
+      "viewed": false
+    },
+    {
+      "id": "f1402d3a-c795-4756-8617-514c788b6bd8",
+      "name": "Ninja 91",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9269,
+      "viewed": false
+    },
+    {
+      "id": "82ef2557-6373-4d70-bf20-1601e6e53906",
+      "name": "Ninja 92",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3857,
+      "viewed": false
+    },
+    {
+      "id": "22833131-6d4f-4a7a-a186-1aca1f7aebbd",
+      "name": "Ninja 93",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7071,
+      "viewed": false
+    },
+    {
+      "id": "516596d0-8578-438a-9e52-8ad17a990db2",
+      "name": "Ninja 94",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3022,
+      "viewed": false
+    },
+    {
+      "id": "0b23f2e6-d968-4680-be35-26ad5215d75a",
+      "name": "Ninja 95",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9989,
+      "viewed": false
+    },
+    {
+      "id": "81908ef0-1569-4b82-a293-580287b1e637",
+      "name": "Ninja 96",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9719,
+      "viewed": false
+    },
+    {
+      "id": "1681eb7b-3468-41d1-8c95-910c04fbdcd3",
+      "name": "Ninja 97",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5609,
+      "viewed": false
+    },
+    {
+      "id": "d3aab30a-36f4-4fc6-9063-4549ac2e51c4",
+      "name": "Ninja 98",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 204,
+      "viewed": false
+    },
+    {
+      "id": "6fe8c596-d370-4ec5-9ebb-ffa995ec0bc3",
+      "name": "Ninja 99",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6463,
+      "viewed": false
+    },
+    {
+      "id": "174e22c7-18f4-4bab-9a65-77f39ced33ed",
+      "name": "Ninja 100",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2856,
+      "viewed": false
+    },
+    {
+      "id": "1e2b2710-0773-492b-a982-8fe207752fee",
+      "name": "Ninja 101",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3424,
+      "viewed": false
+    },
+    {
+      "id": "567e3450-54ae-4e11-bf34-530c7905cc35",
+      "name": "Ninja 102",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1957,
+      "viewed": false
+    },
+    {
+      "id": "7fda8815-b945-40df-b7bd-ab5c3c62e357",
+      "name": "Ninja 103",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7506,
+      "viewed": false
+    },
+    {
+      "id": "9202d6a1-c56b-4c1d-be56-c73f179fb8c2",
+      "name": "Ninja 104",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3440,
+      "viewed": false
+    },
+    {
+      "id": "245da370-1240-44a6-82f7-13c03cf6c471",
+      "name": "Ninja 105",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7701,
+      "viewed": false
+    },
+    {
+      "id": "71ab15b2-037e-443d-8a78-cc44435bf413",
+      "name": "Ninja 106",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8219,
+      "viewed": false
+    },
+    {
+      "id": "13697dcb-2835-4cbe-b235-db503874ba33",
+      "name": "Ninja 107",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7014,
+      "viewed": false
+    },
+    {
+      "id": "467ca262-06ca-43c5-9606-058b906a1e7f",
+      "name": "Ninja 108",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5762,
+      "viewed": false
+    },
+    {
+      "id": "4a3ddfb9-d831-4c4d-b336-310e7bf2a7d6",
+      "name": "Ninja 109",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1559,
+      "viewed": false
+    },
+    {
+      "id": "6afced48-7d58-4077-ba4b-328e6797b75b",
+      "name": "Ninja 110",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2110,
+      "viewed": false
+    },
+    {
+      "id": "00237fb9-4539-4ddc-9693-11a75280e37b",
+      "name": "Ninja 111",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5531,
+      "viewed": false
+    },
+    {
+      "id": "99a54e22-ac19-4bc2-a115-d1f30d0a6716",
+      "name": "Ninja 112",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7976,
+      "viewed": false
+    },
+    {
+      "id": "43756391-746a-41c7-ae25-913000339247",
+      "name": "Ninja 113",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 182,
+      "viewed": false
+    },
+    {
+      "id": "6c31917d-2365-4dae-a14e-868d04db0259",
+      "name": "Ninja 114",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9209,
+      "viewed": false
+    },
+    {
+      "id": "c3b37180-b45b-4c51-a3a5-a15b02e66df9",
+      "name": "Ninja 115",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1180,
+      "viewed": false
+    },
+    {
+      "id": "dba1b37e-5d2c-4864-81f7-9da839a547dd",
+      "name": "Ninja 116",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9020,
+      "viewed": false
+    },
+    {
+      "id": "f4368362-3dab-478c-90fc-330e698bb311",
+      "name": "Ninja 117",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7644,
+      "viewed": false
+    },
+    {
+      "id": "301cc1ed-f777-4607-9949-343c02f6df8a",
+      "name": "Ninja 118",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5220,
+      "viewed": false
+    },
+    {
+      "id": "dd31ebda-a7a5-4821-b7bc-a3bd6cd9537c",
+      "name": "Ninja 119",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5346,
+      "viewed": false
+    },
+    {
+      "id": "42871b3b-75b2-4dbb-b710-cabec36152f8",
+      "name": "Ninja 120",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7269,
+      "viewed": false
+    },
+    {
+      "id": "760c1a5f-407d-454f-8873-dcc3ba3d5293",
+      "name": "Ninja 121",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 839,
+      "viewed": false
+    },
+    {
+      "id": "e41dad82-9869-4c9b-9506-b32ce4350f71",
+      "name": "Ninja 122",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8146,
+      "viewed": false
+    },
+    {
+      "id": "ff12ce20-6e3c-4234-8a53-5635aa0f5bcb",
+      "name": "Ninja 123",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6529,
+      "viewed": false
+    },
+    {
+      "id": "efe42b16-7abc-4fdb-a353-263e7a7f7ad6",
+      "name": "Ninja 124",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8351,
+      "viewed": false
+    },
+    {
+      "id": "0d26fb8e-1889-4c64-8623-129cf7ea8831",
+      "name": "Ninja 125",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5269,
+      "viewed": false
+    },
+    {
+      "id": "ab44e97d-bfa3-498d-b6cb-e7717d3abca8",
+      "name": "Ninja 126",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2626,
+      "viewed": false
+    },
+    {
+      "id": "0c413708-4af1-4bcd-84e9-c8a3daf16bcf",
+      "name": "Ninja 127",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4494,
+      "viewed": false
+    },
+    {
+      "id": "e787e663-bde9-4e9f-be25-445bf87f3a05",
+      "name": "Ninja 128",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9374,
+      "viewed": false
+    },
+    {
+      "id": "f1111f72-d174-4f62-af44-cbdf6ed1ff77",
+      "name": "Ninja 129",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1231,
+      "viewed": false
+    },
+    {
+      "id": "be3b976f-89e3-46d5-ad5c-adfea22c8d4a",
+      "name": "Ninja 130",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1330,
+      "viewed": false
+    },
+    {
+      "id": "3c067670-8fca-473b-bcef-53070b4cc264",
+      "name": "Ninja 131",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2207,
+      "viewed": false
+    },
+    {
+      "id": "139edf06-a683-417e-93f5-a697f5831edd",
+      "name": "Ninja 132",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6804,
+      "viewed": false
+    },
+    {
+      "id": "e5a60d21-fec8-4c79-8942-32e38ae1d429",
+      "name": "Ninja 133",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7118,
+      "viewed": false
+    },
+    {
+      "id": "41bad881-3f5a-47c4-a29f-f0367fa5845a",
+      "name": "Ninja 134",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4502,
+      "viewed": false
+    },
+    {
+      "id": "9f3aa5b8-aa64-4275-ad5c-772cd7e58b1e",
+      "name": "Ninja 135",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6386,
+      "viewed": false
+    },
+    {
+      "id": "429cf020-714e-45e1-997f-2497daca9ed8",
+      "name": "Ninja 136",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4897,
+      "viewed": false
+    },
+    {
+      "id": "9c4ca71a-7f02-481a-a515-f13a010fdcee",
+      "name": "Ninja 137",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4783,
+      "viewed": false
+    },
+    {
+      "id": "595bd1b0-9958-4598-9e26-3d49c09e2d69",
+      "name": "Ninja 138",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1486,
+      "viewed": false
+    },
+    {
+      "id": "d8b7119b-3f95-41f9-a73c-f5d1bd30f69c",
+      "name": "Ninja 139",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6764,
+      "viewed": false
+    },
+    {
+      "id": "2ad61c17-392b-4064-8f03-98b16d5c1377",
+      "name": "Ninja 140",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8550,
+      "viewed": false
+    },
+    {
+      "id": "b0f04271-9998-4d96-a01f-ee83552ead5b",
+      "name": "Ninja 141",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8582,
+      "viewed": false
+    },
+    {
+      "id": "2dbc6329-cd35-40a6-8627-4543d20f075d",
+      "name": "Ninja 142",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1713,
+      "viewed": false
+    },
+    {
+      "id": "6a582115-808e-442e-b7c3-9e2e06c6768b",
+      "name": "Ninja 143",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8049,
+      "viewed": false
+    },
+    {
+      "id": "172bf83e-81af-4996-b97d-6398f3a41ff7",
+      "name": "Ninja 144",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1129,
+      "viewed": false
+    },
+    {
+      "id": "8b6890a9-0839-4087-9a52-d93c4d222388",
+      "name": "Ninja 145",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3767,
+      "viewed": false
+    },
+    {
+      "id": "5805855b-7288-4b6c-b9f3-8b0bc7780236",
+      "name": "Ninja 146",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5857,
+      "viewed": false
+    },
+    {
+      "id": "a89cbdb1-39d7-4ddf-b4c7-e865c62e62ff",
+      "name": "Ninja 147",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8910,
+      "viewed": false
+    },
+    {
+      "id": "d875166a-0146-4ffc-9d7e-7df11ad1e27b",
+      "name": "Ninja 148",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8192,
+      "viewed": false
+    },
+    {
+      "id": "2d62ef00-3a8c-482b-9515-b748d332b5d3",
+      "name": "Ninja 149",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2088,
+      "viewed": false
+    },
+    {
+      "id": "41cd0b71-5ce7-4b7f-8994-1ace823e91fa",
+      "name": "Ninja 150",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4321,
+      "viewed": false
+    },
+    {
+      "id": "2646de43-5c49-492a-ae19-0435b6bf086b",
+      "name": "Ninja 151",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4173,
+      "viewed": false
+    },
+    {
+      "id": "0a54e8b0-b851-446d-b402-883cea0fbe74",
+      "name": "Ninja 152",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2316,
+      "viewed": false
+    },
+    {
+      "id": "f377f469-eae3-458f-8a59-733f0c050be9",
+      "name": "Ninja 153",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9353,
+      "viewed": false
+    },
+    {
+      "id": "f422e880-1710-4648-a455-ca89e850f111",
+      "name": "Ninja 154",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5955,
+      "viewed": false
+    },
+    {
+      "id": "f36a2adc-b0ac-4e65-a8d6-4911870af3a7",
+      "name": "Ninja 155",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4131,
+      "viewed": false
+    },
+    {
+      "id": "40923998-7b3d-44a8-bda7-29f035269776",
+      "name": "Ninja 156",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4742,
+      "viewed": false
+    },
+    {
+      "id": "87e80724-0aa9-4afe-8b6a-2fffc78fe4f0",
+      "name": "Ninja 157",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7512,
+      "viewed": false
+    },
+    {
+      "id": "ccfaa2f2-7d48-4a66-b576-bfdb57d5f036",
+      "name": "Ninja 158",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2687,
+      "viewed": false
+    },
+    {
+      "id": "23941aa6-7f8e-472e-8e14-3d5618ae1c3b",
+      "name": "Ninja 159",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3427,
+      "viewed": false
+    },
+    {
+      "id": "7065b6e0-0380-4017-a264-3afbd26e8a24",
+      "name": "Ninja 160",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4685,
+      "viewed": false
+    },
+    {
+      "id": "60a7e61b-261f-48cc-b56c-8bed06c03dbe",
+      "name": "Ninja 161",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2911,
+      "viewed": false
+    },
+    {
+      "id": "95f386a7-ba49-4bac-98b0-3b37a1d58c3f",
+      "name": "Ninja 162",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7764,
+      "viewed": false
+    },
+    {
+      "id": "4481831d-1205-4c96-b673-b67323844be2",
+      "name": "Ninja 163",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6121,
+      "viewed": false
+    },
+    {
+      "id": "3f9c1a08-783a-4264-b787-d5d2307405d7",
+      "name": "Ninja 164",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7945,
+      "viewed": false
+    },
+    {
+      "id": "65220bd9-af8e-4d19-87f9-1ccaa5f19e17",
+      "name": "Ninja 165",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7455,
+      "viewed": false
+    },
+    {
+      "id": "a684bde4-7d45-4ba5-8747-f453db475266",
+      "name": "Ninja 166",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4813,
+      "viewed": false
+    },
+    {
+      "id": "79da4b32-1b7d-41e6-897a-c0aaa3fa005f",
+      "name": "Ninja 167",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9409,
+      "viewed": false
+    },
+    {
+      "id": "ccac80d7-da18-434b-8cac-197c6f4293b7",
+      "name": "Ninja 168",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2217,
+      "viewed": false
+    },
+    {
+      "id": "b50086c9-546c-4f0f-ae99-b36c57959642",
+      "name": "Ninja 169",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5315,
+      "viewed": false
+    },
+    {
+      "id": "582b7013-3b36-4e2f-9024-c2b752b0b368",
+      "name": "Ninja 170",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3298,
+      "viewed": false
+    },
+    {
+      "id": "859881c8-8d49-46e2-93bf-46914f8a284a",
+      "name": "Ninja 171",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7833,
+      "viewed": false
+    },
+    {
+      "id": "e95371a0-bad1-4806-ba34-4ef0603f6495",
+      "name": "Ninja 172",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 350,
+      "viewed": false
+    },
+    {
+      "id": "e30aee18-60ff-47a4-9454-a7d19977ae2d",
+      "name": "Ninja 173",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6724,
+      "viewed": false
+    },
+    {
+      "id": "174eae3b-2b0b-432d-b200-7efced5bf5f9",
+      "name": "Ninja 174",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 453,
+      "viewed": false
+    },
+    {
+      "id": "fb741075-d623-4eac-8a8c-ef515b389589",
+      "name": "Ninja 175",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 598,
+      "viewed": false
+    },
+    {
+      "id": "453f60d0-a652-484f-beb5-b0c58a203aa5",
+      "name": "Ninja 176",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9968,
+      "viewed": false
+    },
+    {
+      "id": "39d9fad2-4898-462e-974a-fbf266165386",
+      "name": "Ninja 177",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7842,
+      "viewed": false
+    },
+    {
+      "id": "2712fa3d-ef78-413e-8e90-7fb2b68b64ce",
+      "name": "Ninja 178",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7727,
+      "viewed": false
+    },
+    {
+      "id": "fa920b1d-59fa-4f50-b9df-69abe7eff8cc",
+      "name": "Ninja 179",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8280,
+      "viewed": false
+    },
+    {
+      "id": "34aabffd-f1d0-4667-ac41-fc40e0d1a8a7",
+      "name": "Ninja 180",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1523,
+      "viewed": false
+    },
+    {
+      "id": "94f883e3-da5c-4896-b85e-0d954dd1de6e",
+      "name": "Ninja 181",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1314,
+      "viewed": false
+    },
+    {
+      "id": "21cd6161-874d-406c-af55-37a524beb72b",
+      "name": "Ninja 182",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 619,
+      "viewed": false
+    },
+    {
+      "id": "fe708d36-0777-4ee7-ae56-d05ea6d86483",
+      "name": "Ninja 183",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5089,
+      "viewed": false
+    },
+    {
+      "id": "a671623c-16d3-485e-8101-80c70a96e613",
+      "name": "Ninja 184",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1194,
+      "viewed": false
+    },
+    {
+      "id": "5e848893-da77-4f34-8b94-5abfbf5e1296",
+      "name": "Ninja 185",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7895,
+      "viewed": false
+    },
+    {
+      "id": "de6ee0dd-f827-41d5-ac33-4d816cd82770",
+      "name": "Ninja 186",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6373,
+      "viewed": false
+    },
+    {
+      "id": "11029f3c-1c78-466b-8837-471d977166d6",
+      "name": "Ninja 187",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5332,
+      "viewed": false
+    },
+    {
+      "id": "8caa7723-ba87-488a-a905-f867f32a886d",
+      "name": "Ninja 188",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9432,
+      "viewed": false
+    },
+    {
+      "id": "17576eaf-d630-4915-b305-e6d2b3fa0e99",
+      "name": "Ninja 189",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6417,
+      "viewed": false
+    },
+    {
+      "id": "cdbcd9a0-0444-48e6-bb71-1873d69a5742",
+      "name": "Ninja 190",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7872,
+      "viewed": false
+    },
+    {
+      "id": "1c311d16-50bc-4203-a586-2ff0c8e4d499",
+      "name": "Ninja 191",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4400,
+      "viewed": false
+    },
+    {
+      "id": "311a2b40-227e-4833-838d-abe1c8b4154f",
+      "name": "Ninja 192",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1365,
+      "viewed": false
+    },
+    {
+      "id": "5f06baed-f3d0-49fa-823c-507a4c03d573",
+      "name": "Ninja 193",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5770,
+      "viewed": false
+    },
+    {
+      "id": "9f87d910-053a-43bc-a838-5fa144f85bba",
+      "name": "Ninja 194",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9111,
+      "viewed": false
+    },
+    {
+      "id": "a1b02c0a-eddb-4fdb-a23b-eddcc53a2cdc",
+      "name": "Ninja 195",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3765,
+      "viewed": false
+    },
+    {
+      "id": "9aad2c06-868e-49cc-9417-cd04c920c7e7",
+      "name": "Ninja 196",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5530,
+      "viewed": false
+    },
+    {
+      "id": "49df1b4f-b187-4868-938b-3522cf2773d9",
+      "name": "Ninja 197",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5719,
+      "viewed": false
+    },
+    {
+      "id": "56b22db8-c7a9-427e-916c-31f025550352",
+      "name": "Ninja 198",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1987,
+      "viewed": false
+    },
+    {
+      "id": "61ec9ab2-238a-4686-ac01-293940b20cf3",
+      "name": "Ninja 199",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9215,
+      "viewed": false
+    },
+    {
+      "id": "477c0e6d-df0f-4561-81c4-29e1f8717608",
+      "name": "Ninja 200",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1311,
+      "viewed": false
+    },
+    {
+      "id": "63b15f22-fcee-4bff-b300-40d32fa94e33",
+      "name": "Ninja 201",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4987,
+      "viewed": false
+    },
+    {
+      "id": "85cc2410-5568-41c3-babe-e37262b38883",
+      "name": "Ninja 202",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5469,
+      "viewed": false
+    },
+    {
+      "id": "21b452b5-0748-4c99-ad93-9ff36bda7388",
+      "name": "Ninja 203",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7889,
+      "viewed": false
+    },
+    {
+      "id": "cafabeca-e62c-42cb-bf76-c27ef1294166",
+      "name": "Ninja 204",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3573,
+      "viewed": false
+    },
+    {
+      "id": "c95ba153-5422-4917-b5cc-e18bfa2ce2b8",
+      "name": "Ninja 205",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6700,
+      "viewed": false
+    },
+    {
+      "id": "af32abe7-6459-40cf-be2f-5984443f5a08",
+      "name": "Ninja 206",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6193,
+      "viewed": false
+    },
+    {
+      "id": "727a5878-042e-4175-b37b-bf594ef7b694",
+      "name": "Ninja 207",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5703,
+      "viewed": false
+    },
+    {
+      "id": "a04a65f7-26d6-462f-b1e8-43de68bf16d7",
+      "name": "Ninja 208",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 332,
+      "viewed": false
+    },
+    {
+      "id": "072fe8bd-5d1e-42da-b603-04e64e0450c8",
+      "name": "Ninja 209",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6239,
+      "viewed": false
+    },
+    {
+      "id": "471430bc-890c-40de-9617-93ba27a28520",
+      "name": "Ninja 210",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1580,
+      "viewed": false
+    },
+    {
+      "id": "f1ec44df-ab9a-4a25-8af5-368a7d183555",
+      "name": "Ninja 211",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7584,
+      "viewed": false
+    },
+    {
+      "id": "482104f6-2025-4285-b1c0-e703657aa9ab",
+      "name": "Ninja 212",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9518,
+      "viewed": false
+    },
+    {
+      "id": "55a3513a-625d-4793-8c10-d166fa77f75f",
+      "name": "Ninja 213",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6494,
+      "viewed": false
+    },
+    {
+      "id": "29778617-7deb-47c6-ac73-e2b288e841e4",
+      "name": "Ninja 214",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2279,
+      "viewed": false
+    },
+    {
+      "id": "af086824-5ef3-4640-8f6b-58dda0b0e43c",
+      "name": "Ninja 215",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9678,
+      "viewed": false
+    },
+    {
+      "id": "433cdd2c-4593-4ed6-95c7-e0ccd0b31718",
+      "name": "Ninja 216",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 376,
+      "viewed": false
+    },
+    {
+      "id": "aa1ca56e-b605-4fd0-abe6-782520dd7df3",
+      "name": "Ninja 217",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6711,
+      "viewed": false
+    },
+    {
+      "id": "4403300f-c12b-4d2b-a097-8aeb8989de6a",
+      "name": "Ninja 218",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1716,
+      "viewed": false
+    },
+    {
+      "id": "3410166c-7329-421a-8851-686bef5d423f",
+      "name": "Ninja 219",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8845,
+      "viewed": false
+    },
+    {
+      "id": "31bccadd-d338-4c4a-8ec0-2f274e206ee4",
+      "name": "Ninja 220",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9653,
+      "viewed": false
+    },
+    {
+      "id": "c36536fa-1c66-4df9-8026-536e80d8c2fa",
+      "name": "Ninja 221",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8047,
+      "viewed": false
+    },
+    {
+      "id": "f48e6bda-7080-4b0b-ac49-1773c0f7259e",
+      "name": "Ninja 222",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5465,
+      "viewed": false
+    },
+    {
+      "id": "ca647782-0247-4ce7-8062-2084f2ecb1d9",
+      "name": "Ninja 223",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9774,
+      "viewed": false
+    },
+    {
+      "id": "5b783aa3-39d9-4b08-bf1c-144af3fcac8e",
+      "name": "Ninja 224",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9753,
+      "viewed": false
+    },
+    {
+      "id": "33c9432f-26d3-4635-bf4d-ee1fc71e1f63",
+      "name": "Ninja 225",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9513,
+      "viewed": false
+    },
+    {
+      "id": "d9b1fdb2-e342-4b0f-b95d-446a45f4029e",
+      "name": "Ninja 226",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9523,
+      "viewed": false
+    },
+    {
+      "id": "5ad7e770-8718-4146-8e56-d5ca32556a67",
+      "name": "Ninja 227",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4569,
+      "viewed": false
+    },
+    {
+      "id": "f8ca76e6-154c-4e2c-847b-cae0bd67af6e",
+      "name": "Ninja 228",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1204,
+      "viewed": false
+    },
+    {
+      "id": "82445802-bd43-45ab-9246-8ff59b0e339d",
+      "name": "Ninja 229",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2498,
+      "viewed": false
+    },
+    {
+      "id": "66a402fe-baf1-446a-991c-87b5596a3b67",
+      "name": "Ninja 230",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7433,
+      "viewed": false
+    },
+    {
+      "id": "1ded40cb-f63a-4a99-9684-9014ef213fb8",
+      "name": "Ninja 231",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3383,
+      "viewed": false
+    },
+    {
+      "id": "a70db947-08eb-4b2d-9251-ae8fc9404b9d",
+      "name": "Ninja 232",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1498,
+      "viewed": false
+    },
+    {
+      "id": "3e28a2d0-d917-4967-88c4-6dbc9dce42bd",
+      "name": "Ninja 233",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7597,
+      "viewed": false
+    },
+    {
+      "id": "6583ea95-b456-4c1d-8ab3-bef0fef899fa",
+      "name": "Ninja 234",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 849,
+      "viewed": false
+    },
+    {
+      "id": "87b3322f-df0a-4845-a06c-50cf90208217",
+      "name": "Ninja 235",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6732,
+      "viewed": false
+    },
+    {
+      "id": "a0347a27-c2ae-49cd-9bb8-2d2055a2e12d",
+      "name": "Ninja 236",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1597,
+      "viewed": false
+    },
+    {
+      "id": "3cb3e9f1-0e16-4e32-a92e-d44b388bca8d",
+      "name": "Ninja 237",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5367,
+      "viewed": false
+    },
+    {
+      "id": "2dc67c5b-0d3c-4a9b-ae5a-c244ab2705e3",
+      "name": "Ninja 238",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2053,
+      "viewed": false
+    },
+    {
+      "id": "71d43808-dd03-40d6-b1fd-5bcce3181823",
+      "name": "Ninja 239",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7865,
+      "viewed": false
+    },
+    {
+      "id": "34998474-9a95-414f-a60f-706c5c28436b",
+      "name": "Ninja 240",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9648,
+      "viewed": false
+    },
+    {
+      "id": "63c7bcca-53ca-45c5-a756-9bdc7b941448",
+      "name": "Ninja 241",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7842,
+      "viewed": false
+    },
+    {
+      "id": "bd704e12-fd24-4836-be9a-4630b0ba0820",
+      "name": "Ninja 242",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3170,
+      "viewed": false
+    },
+    {
+      "id": "6addf2f4-d5c8-4f29-8f75-b3fa6613b194",
+      "name": "Ninja 243",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5579,
+      "viewed": false
+    },
+    {
+      "id": "83ff37f4-a77c-410d-978c-9c20927640bb",
+      "name": "Ninja 244",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7519,
+      "viewed": false
+    },
+    {
+      "id": "be8f7e58-14a3-4395-bb47-de11a620a7b9",
+      "name": "Ninja 245",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4632,
+      "viewed": false
+    },
+    {
+      "id": "42d1f4f7-9078-4f35-bb3b-e706248104ae",
+      "name": "Ninja 246",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4376,
+      "viewed": false
+    },
+    {
+      "id": "97c05da2-3471-48cb-96d2-8894197622b1",
+      "name": "Ninja 247",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9923,
+      "viewed": false
+    },
+    {
+      "id": "385b5105-da7b-4517-abb0-030b724f6264",
+      "name": "Ninja 248",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7563,
+      "viewed": false
+    },
+    {
+      "id": "a4970774-3f29-446e-b206-eeab2043891f",
+      "name": "Ninja 249",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9841,
+      "viewed": false
+    },
+    {
+      "id": "75faa96f-4ca6-4d59-8c1d-da662e3693c1",
+      "name": "Ninja 250",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 399,
+      "viewed": false
+    },
+    {
+      "id": "990cce24-4c94-4c71-bd09-87291212b74f",
+      "name": "Ninja 251",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4215,
+      "viewed": false
+    },
+    {
+      "id": "63e2fda9-5827-44c7-9555-44fadc689cd1",
+      "name": "Ninja 252",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4317,
+      "viewed": false
+    },
+    {
+      "id": "12e242a8-e7ae-4764-997c-e8e3e62c89dc",
+      "name": "Ninja 253",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5574,
+      "viewed": false
+    },
+    {
+      "id": "fbd483cd-a7f5-40ef-8046-6e1f614f14e2",
+      "name": "Ninja 254",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1898,
+      "viewed": false
+    },
+    {
+      "id": "e23f11d5-8313-42ca-b458-fd70bd468ebd",
+      "name": "Ninja 255",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5507,
+      "viewed": false
+    },
+    {
+      "id": "ebe30625-113d-492a-9899-ccf881a2b208",
+      "name": "Ninja 256",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6527,
+      "viewed": false
+    },
+    {
+      "id": "cfd196aa-c070-4c7d-a425-54bb38e89b02",
+      "name": "Ninja 257",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8144,
+      "viewed": false
+    },
+    {
+      "id": "7804f918-f50d-4c41-9748-664db846d0fd",
+      "name": "Ninja 258",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 504,
+      "viewed": false
+    },
+    {
+      "id": "4e1a84e7-336d-4255-a696-4aa451777600",
+      "name": "Ninja 259",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5522,
+      "viewed": false
+    },
+    {
+      "id": "b8761013-d522-4d16-9925-a1f035303494",
+      "name": "Ninja 260",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1623,
+      "viewed": false
+    },
+    {
+      "id": "e3d8285e-da88-42c8-9fde-a893d1fd4173",
+      "name": "Ninja 261",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2154,
+      "viewed": false
+    },
+    {
+      "id": "c13a954e-dd11-4409-bbfc-3084bf366684",
+      "name": "Ninja 262",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5380,
+      "viewed": false
+    },
+    {
+      "id": "2854713e-3adf-4f2c-a5aa-0fa59438310e",
+      "name": "Ninja 263",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6798,
+      "viewed": false
+    },
+    {
+      "id": "caab92d7-e921-473b-9d1a-4bba1e092f20",
+      "name": "Ninja 264",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2551,
+      "viewed": false
+    },
+    {
+      "id": "587c61bd-8202-4dbe-9dfc-52328b9aa90a",
+      "name": "Ninja 265",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5771,
+      "viewed": false
+    },
+    {
+      "id": "c83137a6-52c2-4e8c-8b78-7c255dd4cfab",
+      "name": "Ninja 266",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 790,
+      "viewed": false
+    },
+    {
+      "id": "3cab4097-8dbd-4131-8c91-5f8556a3ceda",
+      "name": "Ninja 267",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9974,
+      "viewed": false
+    },
+    {
+      "id": "a6c0f5d6-4a1f-4868-9c97-accb2a933e2d",
+      "name": "Ninja 268",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1230,
+      "viewed": false
+    },
+    {
+      "id": "7f51d890-afea-414c-bd17-571c8fb704d4",
+      "name": "Ninja 269",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8814,
+      "viewed": false
+    },
+    {
+      "id": "00cdfb21-dfc8-4818-80b1-c2d5f1867f16",
+      "name": "Ninja 270",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4484,
+      "viewed": false
+    },
+    {
+      "id": "78c0caa2-f81f-43fa-b2f0-ac0d6adf45af",
+      "name": "Ninja 271",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6213,
+      "viewed": false
+    },
+    {
+      "id": "f27fef60-e202-4575-b0cf-f1b837c4a83c",
+      "name": "Ninja 272",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7322,
+      "viewed": false
+    },
+    {
+      "id": "3b731bd0-29aa-4c86-bbb8-17fbef54b3ab",
+      "name": "Ninja 273",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1209,
+      "viewed": false
+    },
+    {
+      "id": "32d6bf58-e64b-4c92-81c2-66680e5503c9",
+      "name": "Ninja 274",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3274,
+      "viewed": false
+    },
+    {
+      "id": "ca2a278d-17b8-44fc-9c7d-e9d2ffb7f2fb",
+      "name": "Ninja 275",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4543,
+      "viewed": false
+    },
+    {
+      "id": "d400fcfe-59f2-4064-9173-2ef8a2f3bafd",
+      "name": "Ninja 276",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4633,
+      "viewed": false
+    },
+    {
+      "id": "71098c4a-178f-462c-ac80-70e3749b0dd6",
+      "name": "Ninja 277",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5056,
+      "viewed": false
+    },
+    {
+      "id": "fb1f893d-69d8-4620-b778-5f26e3926f00",
+      "name": "Ninja 278",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4562,
+      "viewed": false
+    },
+    {
+      "id": "bb36c162-4a68-4a11-9595-c8333b169343",
+      "name": "Ninja 279",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6277,
+      "viewed": false
+    },
+    {
+      "id": "2e516ed3-ae3b-4a6b-861d-c956346710b5",
+      "name": "Ninja 280",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5811,
+      "viewed": false
+    },
+    {
+      "id": "846d47e5-ce63-4a6a-b9e6-0f4f1b741f85",
+      "name": "Ninja 281",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7295,
+      "viewed": false
+    },
+    {
+      "id": "a324734a-8d4a-4f42-8a03-7801766456e4",
+      "name": "Ninja 282",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9831,
+      "viewed": false
+    },
+    {
+      "id": "aab0554a-c8cd-4427-b693-342089ce6618",
+      "name": "Ninja 283",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9510,
+      "viewed": false
+    },
+    {
+      "id": "1df0f79a-03b3-4b4a-8836-b4caf25026f0",
+      "name": "Ninja 284",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9281,
+      "viewed": false
+    },
+    {
+      "id": "4c8f5f7a-d51d-4ee8-ab32-4ed35691728c",
+      "name": "Ninja 285",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4372,
+      "viewed": false
+    },
+    {
+      "id": "6509e0d4-9e51-454a-b5ed-d56baca23f73",
+      "name": "Ninja 286",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5125,
+      "viewed": false
+    },
+    {
+      "id": "63d94be4-e5f0-41c3-a76b-527128886348",
+      "name": "Ninja 287",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1001,
+      "viewed": false
+    },
+    {
+      "id": "192e4bf5-1d8f-4b5f-8b2a-94986bad3d5c",
+      "name": "Ninja 288",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7222,
+      "viewed": false
+    },
+    {
+      "id": "1392b7c8-3378-4d54-99a3-056e76dac1aa",
+      "name": "Ninja 289",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6997,
+      "viewed": false
+    },
+    {
+      "id": "b73551cf-94d6-4438-8e92-63f455a87d40",
+      "name": "Ninja 290",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2275,
+      "viewed": false
+    },
+    {
+      "id": "e738d884-33e4-418a-8e74-9bb034af5124",
+      "name": "Ninja 291",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6384,
+      "viewed": false
+    },
+    {
+      "id": "64ff5d6c-586a-468a-8b62-e99ebd31a7c3",
+      "name": "Ninja 292",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 585,
+      "viewed": false
+    },
+    {
+      "id": "69142a17-de5c-40a4-9061-47562f549897",
+      "name": "Ninja 293",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9897,
+      "viewed": false
+    },
+    {
+      "id": "cc669503-2a9d-4913-af65-ddf01e0bfa09",
+      "name": "Ninja 294",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7040,
+      "viewed": false
+    },
+    {
+      "id": "ad875df6-fbaf-45b8-bfd8-fc8bb9fd119b",
+      "name": "Ninja 295",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1402,
+      "viewed": false
+    },
+    {
+      "id": "07e65601-56e8-4cc8-abd9-f2cf4bf6afd4",
+      "name": "Ninja 296",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1036,
+      "viewed": false
+    },
+    {
+      "id": "e54ada40-64a3-4efb-99ec-7237a0cc5481",
+      "name": "Ninja 297",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6758,
+      "viewed": false
+    },
+    {
+      "id": "188c64ff-c5ef-427f-a130-21e02a3922ea",
+      "name": "Ninja 298",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8879,
+      "viewed": false
+    },
+    {
+      "id": "f21fea59-dbf2-4873-81b6-f653b6ca3522",
+      "name": "Ninja 299",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7024,
+      "viewed": false
+    },
+    {
+      "id": "0c742392-7e5c-4eb0-8969-eb79a033a71d",
+      "name": "Ninja 300",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2666,
+      "viewed": false
+    },
+    {
+      "id": "80894c77-f1e6-4a02-9025-7cd3dec4be93",
+      "name": "Ninja 301",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3203,
+      "viewed": false
+    },
+    {
+      "id": "11376e11-3745-4ee9-8a1f-8c417db35987",
+      "name": "Ninja 302",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2479,
+      "viewed": false
+    },
+    {
+      "id": "78b088a9-7b42-457e-9f23-6574e69fe69d",
+      "name": "Ninja 303",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6340,
+      "viewed": false
+    },
+    {
+      "id": "4eb546cc-a35c-43c2-8490-41a0be1fa1a6",
+      "name": "Ninja 304",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2914,
+      "viewed": false
+    },
+    {
+      "id": "46d00886-edc8-40e2-9615-8e8f4b3f65d2",
+      "name": "Ninja 305",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8798,
+      "viewed": false
+    },
+    {
+      "id": "aca5c486-839c-4f1e-916e-44c629b325a1",
+      "name": "Ninja 306",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9332,
+      "viewed": false
+    },
+    {
+      "id": "1ca6dee2-ff04-44e6-9d89-5b1d5c6a6b67",
+      "name": "Ninja 307",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4328,
+      "viewed": false
+    },
+    {
+      "id": "6e87ae0f-9a36-4d9a-bc0d-9737ed6c893c",
+      "name": "Ninja 308",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4431,
+      "viewed": false
+    },
+    {
+      "id": "7f0d4a9d-b51a-482d-b310-cb2ed634dd3d",
+      "name": "Ninja 309",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9656,
+      "viewed": false
+    },
+    {
+      "id": "3e7f392f-5df5-451f-9a4a-7a250d595009",
+      "name": "Ninja 310",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 992,
+      "viewed": false
+    },
+    {
+      "id": "01b5a99a-0a00-48ca-89fe-29dc19d539fb",
+      "name": "Ninja 311",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9467,
+      "viewed": false
+    },
+    {
+      "id": "e4e478b7-ee00-406c-a890-eff7fb994a1a",
+      "name": "Ninja 312",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 265,
+      "viewed": false
+    },
+    {
+      "id": "60d79313-6d5c-49ad-83db-98934405adb2",
+      "name": "Ninja 313",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 546,
+      "viewed": false
+    },
+    {
+      "id": "f170cbb3-4cc4-42fd-a690-5c0cbcde9c32",
+      "name": "Ninja 314",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8651,
+      "viewed": false
+    },
+    {
+      "id": "db9cb38e-33a9-4440-a87c-9c748dec6da7",
+      "name": "Ninja 315",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9354,
+      "viewed": false
+    },
+    {
+      "id": "e93bda8c-6549-44c6-83b1-0e4dccd91a3f",
+      "name": "Ninja 316",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7085,
+      "viewed": false
+    },
+    {
+      "id": "f123f8f8-e66d-47bb-8e36-0b59b412fb3f",
+      "name": "Ninja 317",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 109,
+      "viewed": false
+    },
+    {
+      "id": "a7163b4d-d581-4e32-9c58-2ad46bc6c089",
+      "name": "Ninja 318",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8991,
+      "viewed": false
+    },
+    {
+      "id": "f9a34c81-f756-4d47-b315-2dc38e875e99",
+      "name": "Ninja 319",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3717,
+      "viewed": false
+    },
+    {
+      "id": "2519206b-865e-4133-b8bd-876280f52114",
+      "name": "Ninja 320",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5587,
+      "viewed": false
+    },
+    {
+      "id": "3a19ef38-1f24-492b-b222-d299a0e4133c",
+      "name": "Ninja 321",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5599,
+      "viewed": false
+    },
+    {
+      "id": "085d92ac-dd55-4c47-ad41-54b3e55ef6b5",
+      "name": "Ninja 322",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6777,
+      "viewed": false
+    },
+    {
+      "id": "9e144346-333b-4cb1-8a80-e3b1a15d94a3",
+      "name": "Ninja 323",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2669,
+      "viewed": false
+    },
+    {
+      "id": "3e66e1d9-e13f-4077-a5b6-24bec489ffc1",
+      "name": "Ninja 324",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 622,
+      "viewed": false
+    },
+    {
+      "id": "dcd45a89-6daa-46db-927e-95ab98153f1a",
+      "name": "Ninja 325",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5830,
+      "viewed": false
+    },
+    {
+      "id": "709a37c6-2ee8-4e58-aeba-5bac911e3e9a",
+      "name": "Ninja 326",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 897,
+      "viewed": false
+    },
+    {
+      "id": "f0bd92e9-c43b-4830-950e-0dbcfe0d5b15",
+      "name": "Ninja 327",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8474,
+      "viewed": false
+    },
+    {
+      "id": "111936a6-7611-4699-856f-dd0f4e2be729",
+      "name": "Ninja 328",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 384,
+      "viewed": false
+    },
+    {
+      "id": "400983ab-c704-406a-b04c-aadab74629c0",
+      "name": "Ninja 329",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5195,
+      "viewed": false
+    },
+    {
+      "id": "0cf3ba9a-5070-4414-8e12-71f9f62f2e93",
+      "name": "Ninja 330",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8452,
+      "viewed": false
+    },
+    {
+      "id": "06978ecb-2e2d-4ed4-a12e-e3717319841b",
+      "name": "Ninja 331",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4994,
+      "viewed": false
+    },
+    {
+      "id": "9878bbfc-0988-4d93-ae1f-55b2983d98c4",
+      "name": "Ninja 332",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8569,
+      "viewed": false
+    },
+    {
+      "id": "e9492620-5987-4bac-9a70-489a6cf83824",
+      "name": "Ninja 333",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6106,
+      "viewed": false
+    },
+    {
+      "id": "ef52955f-91d5-4fec-9008-de85a145a226",
+      "name": "Ninja 334",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7314,
+      "viewed": false
+    },
+    {
+      "id": "98bf2f76-ab05-4d56-8427-d4d3bb0ffd37",
+      "name": "Ninja 335",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2339,
+      "viewed": false
+    },
+    {
+      "id": "d39121b2-1ebf-4f0c-92a0-67c2ca71adc0",
+      "name": "Ninja 336",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6298,
+      "viewed": false
+    },
+    {
+      "id": "0cdf0c62-93b7-4a47-8acc-4c80c0b618e7",
+      "name": "Ninja 337",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1664,
+      "viewed": false
+    },
+    {
+      "id": "9c55272a-b1e3-46db-894c-d72ef8b2f10c",
+      "name": "Ninja 338",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4982,
+      "viewed": false
+    },
+    {
+      "id": "3617c73a-1c55-4b6b-aecc-1b008346a82a",
+      "name": "Ninja 339",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9276,
+      "viewed": false
+    },
+    {
+      "id": "c50fbf63-1f7c-4ba6-85cb-4a4c13f2af0a",
+      "name": "Ninja 340",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6913,
+      "viewed": false
+    },
+    {
+      "id": "7c24d1ef-2935-4dcf-88e1-aaba6676ce0f",
+      "name": "Ninja 341",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1291,
+      "viewed": false
+    },
+    {
+      "id": "aac90f09-b66c-45e9-bd1a-bccbc6c36fac",
+      "name": "Ninja 342",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4801,
+      "viewed": false
+    },
+    {
+      "id": "b490dce5-75fc-4065-8c18-ff467529a218",
+      "name": "Ninja 343",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3421,
+      "viewed": false
+    },
+    {
+      "id": "4a8a85cd-de25-481a-91bb-4de3cba81f09",
+      "name": "Ninja 344",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6611,
+      "viewed": false
+    },
+    {
+      "id": "7fc15c19-14d5-456f-9ef1-ee5b062c3edb",
+      "name": "Ninja 345",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1584,
+      "viewed": false
+    },
+    {
+      "id": "95732ff1-1363-4efc-838c-993ead9458c0",
+      "name": "Ninja 346",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6595,
+      "viewed": false
+    },
+    {
+      "id": "5f981b2d-8d1c-4a17-a91d-845b065e6f24",
+      "name": "Ninja 347",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2843,
+      "viewed": false
+    },
+    {
+      "id": "0bcb62e7-0787-44db-b638-401b136b19d0",
+      "name": "Ninja 348",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5926,
+      "viewed": false
+    },
+    {
+      "id": "6f87f726-1dd1-4e57-98c8-2a55c2212403",
+      "name": "Ninja 349",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6146,
+      "viewed": false
+    },
+    {
+      "id": "72f60732-26c7-4e54-b5b0-51e61e011176",
+      "name": "Ninja 350",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9350,
+      "viewed": false
+    },
+    {
+      "id": "34534ed4-389c-4bea-b7ba-4bd7beb803e9",
+      "name": "Ninja 351",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5469,
+      "viewed": false
+    },
+    {
+      "id": "088d8739-fc09-4efb-b907-9bda7865fde4",
+      "name": "Ninja 352",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3348,
+      "viewed": false
+    },
+    {
+      "id": "26984d26-1008-43c4-a7cf-1aac35869b90",
+      "name": "Ninja 353",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3403,
+      "viewed": false
+    },
+    {
+      "id": "ec24f030-fe10-4355-8517-4977054a4b2d",
+      "name": "Ninja 354",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4584,
+      "viewed": false
+    },
+    {
+      "id": "16f711a5-66cb-4f63-b233-7790e80bfc52",
+      "name": "Ninja 355",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5477,
+      "viewed": false
+    },
+    {
+      "id": "44665c34-aebf-4992-8070-11000c133f13",
+      "name": "Ninja 356",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1675,
+      "viewed": false
+    },
+    {
+      "id": "95bac023-03d8-48d6-aff8-fc0e9687eef7",
+      "name": "Ninja 357",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4324,
+      "viewed": false
+    },
+    {
+      "id": "be1998d5-627c-4c93-940c-1c8de9ec7d19",
+      "name": "Ninja 358",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7285,
+      "viewed": false
+    },
+    {
+      "id": "aa241105-9d18-42c1-8345-5cb96d2ffcee",
+      "name": "Ninja 359",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2429,
+      "viewed": false
+    },
+    {
+      "id": "efe01f6a-7617-43cc-b577-277d64acde85",
+      "name": "Ninja 360",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3823,
+      "viewed": false
+    },
+    {
+      "id": "de7d5920-981d-4d21-9a7a-2cd240a72934",
+      "name": "Ninja 361",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5092,
+      "viewed": false
+    },
+    {
+      "id": "2fd36b4e-d168-4f8c-bda9-3f61a7f407ee",
+      "name": "Ninja 362",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5264,
+      "viewed": false
+    },
+    {
+      "id": "4eed6355-e83f-4a61-bdf4-4f59e3810fc2",
+      "name": "Ninja 363",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 764,
+      "viewed": false
+    },
+    {
+      "id": "3746acd2-6f89-46a1-ab9b-ef84a5db7755",
+      "name": "Ninja 364",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4454,
+      "viewed": false
+    },
+    {
+      "id": "7ee41a0b-9938-4c48-a5e6-02ad4a91a97e",
+      "name": "Ninja 365",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1985,
+      "viewed": false
+    },
+    {
+      "id": "9271e405-91b1-40a5-a112-9ebaf4666eab",
+      "name": "Ninja 366",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3012,
+      "viewed": false
+    },
+    {
+      "id": "0d6e1706-830b-4283-a851-a08dc75ce0ab",
+      "name": "Ninja 367",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1105,
+      "viewed": false
+    },
+    {
+      "id": "1a41453a-c6f8-4487-be34-b81ea1df895d",
+      "name": "Ninja 368",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 407,
+      "viewed": false
+    },
+    {
+      "id": "b8430186-e115-4043-aecd-524942f045f2",
+      "name": "Ninja 369",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9256,
+      "viewed": false
+    },
+    {
+      "id": "e67a244a-b814-49f3-a6ac-a64027780fd8",
+      "name": "Ninja 370",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 317,
+      "viewed": false
+    },
+    {
+      "id": "18ac604b-0f10-4651-acae-4e88451d05ba",
+      "name": "Ninja 371",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8600,
+      "viewed": false
+    },
+    {
+      "id": "f253dc4d-9890-428e-87c1-1a36847c61b8",
+      "name": "Ninja 372",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 652,
+      "viewed": false
+    },
+    {
+      "id": "eebddf32-29bb-4d64-abeb-730b08c51be8",
+      "name": "Ninja 373",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5260,
+      "viewed": false
+    },
+    {
+      "id": "ed6fe182-b775-4d1a-a00f-6389a3dc8418",
+      "name": "Ninja 374",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8134,
+      "viewed": false
+    },
+    {
+      "id": "b7e4f1d4-a51f-4412-b09a-b49bb5fcb22c",
+      "name": "Ninja 375",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1242,
+      "viewed": false
+    },
+    {
+      "id": "285f9a63-8d77-4a1f-8dce-7dd504d0e020",
+      "name": "Ninja 376",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8139,
+      "viewed": false
+    },
+    {
+      "id": "be7a2099-f71d-4e62-8299-e193a4b93a99",
+      "name": "Ninja 377",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1941,
+      "viewed": false
+    },
+    {
+      "id": "f9ae7064-956f-457c-a2ce-feabcca69132",
+      "name": "Ninja 378",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9389,
+      "viewed": false
+    },
+    {
+      "id": "82aa472d-6608-4f32-a841-83e465df4c9e",
+      "name": "Ninja 379",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5135,
+      "viewed": false
+    },
+    {
+      "id": "84275bcd-34bc-4566-a2d3-be5a521e1d36",
+      "name": "Ninja 380",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7441,
+      "viewed": false
+    },
+    {
+      "id": "8a81c037-adb2-404e-91d1-631d66c672ec",
+      "name": "Ninja 381",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1735,
+      "viewed": false
+    },
+    {
+      "id": "db3494a3-4b3c-484a-8a02-5539d1dde6c5",
+      "name": "Ninja 382",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9717,
+      "viewed": false
+    },
+    {
+      "id": "757d183d-0685-40b6-8c5f-2c1053a91f20",
+      "name": "Ninja 383",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2229,
+      "viewed": false
+    },
+    {
+      "id": "6549d435-5756-4fd7-acc4-a899c24387a1",
+      "name": "Ninja 384",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4624,
+      "viewed": false
+    },
+    {
+      "id": "fe685c3b-e7af-4e11-a51e-e63c6c973253",
+      "name": "Ninja 385",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6676,
+      "viewed": false
+    },
+    {
+      "id": "7ddcd540-e4c9-4f75-980c-c7841e680e6d",
+      "name": "Ninja 386",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6955,
+      "viewed": false
+    },
+    {
+      "id": "58e2df4a-5493-4f1d-8fe5-9d45f460d0cd",
+      "name": "Ninja 387",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4368,
+      "viewed": false
+    },
+    {
+      "id": "66f1cbc7-44a1-48e5-8b68-cc6238fc9b30",
+      "name": "Ninja 388",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2582,
+      "viewed": false
+    },
+    {
+      "id": "6913d94a-9912-4362-a4d3-db37ad5bec2a",
+      "name": "Ninja 389",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3369,
+      "viewed": false
+    },
+    {
+      "id": "b11b250b-dd80-44dc-b226-15a006e1fbb1",
+      "name": "Ninja 390",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4781,
+      "viewed": false
+    },
+    {
+      "id": "673f71dc-1ef1-45f0-b67e-b25f6527194b",
+      "name": "Ninja 391",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7073,
+      "viewed": false
+    },
+    {
+      "id": "32c021e6-b447-4ac3-a61d-02a57bd896a2",
+      "name": "Ninja 392",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3200,
+      "viewed": false
+    },
+    {
+      "id": "ab1d2ea2-6891-4b04-8aad-ce5a53e0c60c",
+      "name": "Ninja 393",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3402,
+      "viewed": false
+    },
+    {
+      "id": "9a6a7529-dcc9-4860-86e4-86d971eb968d",
+      "name": "Ninja 394",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6415,
+      "viewed": false
+    },
+    {
+      "id": "8e3f5c25-50f9-4bf1-9103-b7a79e462fdd",
+      "name": "Ninja 395",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9594,
+      "viewed": false
+    },
+    {
+      "id": "aea1b479-ac7b-4921-b64b-d85dca524223",
+      "name": "Ninja 396",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3402,
+      "viewed": false
+    },
+    {
+      "id": "202c8bb0-12f4-482b-bb1a-dc8b4e123b20",
+      "name": "Ninja 397",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8208,
+      "viewed": false
+    },
+    {
+      "id": "88334d18-f8cf-47ad-8345-003f20e51e23",
+      "name": "Ninja 398",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6238,
+      "viewed": false
+    },
+    {
+      "id": "58ba5779-90be-48d6-abcc-02822b5690cf",
+      "name": "Ninja 399",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9353,
+      "viewed": false
+    },
+    {
+      "id": "64d9e76f-9aa2-414d-9e90-2aed3bc8f2b1",
+      "name": "Ninja 400",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3895,
+      "viewed": false
+    },
+    {
+      "id": "a7856696-d579-47a7-821a-2e3ae7fd9090",
+      "name": "Ninja 401",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5141,
+      "viewed": false
+    },
+    {
+      "id": "b8a73a7d-b0f2-4d93-963b-401103d8b650",
+      "name": "Ninja 402",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4506,
+      "viewed": false
+    },
+    {
+      "id": "9341c5a9-cbdf-4244-886c-d236dd30c628",
+      "name": "Ninja 403",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 636,
+      "viewed": false
+    },
+    {
+      "id": "157f4fac-724d-4496-a0f2-1856c44926d1",
+      "name": "Ninja 404",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3093,
+      "viewed": false
+    },
+    {
+      "id": "61e5036c-eafa-48b8-b7be-25d958cd2221",
+      "name": "Ninja 405",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2976,
+      "viewed": false
+    },
+    {
+      "id": "2df2305b-0a38-4e52-8cbc-dd0841cb4365",
+      "name": "Ninja 406",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3194,
+      "viewed": false
+    },
+    {
+      "id": "a9fc9b28-c57d-49d5-8f37-c04534953651",
+      "name": "Ninja 407",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 487,
+      "viewed": false
+    },
+    {
+      "id": "6da4c1f4-8f98-480d-8497-8ab7023b40a0",
+      "name": "Ninja 408",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9150,
+      "viewed": false
+    },
+    {
+      "id": "0338b9c1-dfee-4f93-8d37-e51e015e4ea2",
+      "name": "Ninja 409",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8584,
+      "viewed": false
+    },
+    {
+      "id": "aaad104f-e91c-4094-a369-570f05517beb",
+      "name": "Ninja 410",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8872,
+      "viewed": false
+    },
+    {
+      "id": "91982853-863d-4b30-8c56-9b151d36e714",
+      "name": "Ninja 411",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8774,
+      "viewed": false
+    },
+    {
+      "id": "97a751f9-d402-4861-86d8-60fab37fbc38",
+      "name": "Ninja 412",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 589,
+      "viewed": false
+    },
+    {
+      "id": "54b54417-c292-4761-87bd-5074de78561d",
+      "name": "Ninja 413",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3368,
+      "viewed": false
+    },
+    {
+      "id": "e0991f9a-7b82-4454-9ad5-ce5148813537",
+      "name": "Ninja 414",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1717,
+      "viewed": false
+    },
+    {
+      "id": "d8d6b07a-8e8e-4187-b89c-4dbd0b84be61",
+      "name": "Ninja 415",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5061,
+      "viewed": false
+    },
+    {
+      "id": "37678cf8-ca30-446d-8863-0cb2a97d820d",
+      "name": "Ninja 416",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1667,
+      "viewed": false
+    },
+    {
+      "id": "a0d7469e-166a-4bbd-8e47-a93332c7ece1",
+      "name": "Ninja 417",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8445,
+      "viewed": false
+    },
+    {
+      "id": "c9bad38c-1af1-4283-864c-455ac560bdcb",
+      "name": "Ninja 418",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5672,
+      "viewed": false
+    },
+    {
+      "id": "b7725d78-fba8-4d52-9742-848d1cebf6d8",
+      "name": "Ninja 419",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9331,
+      "viewed": false
+    },
+    {
+      "id": "43f4feec-0868-485f-8152-efa8df5deefb",
+      "name": "Ninja 420",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4472,
+      "viewed": false
+    },
+    {
+      "id": "b564ebfc-0ce1-48ae-8cf1-5cc09eea6fb4",
+      "name": "Ninja 421",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7364,
+      "viewed": false
+    },
+    {
+      "id": "f6154bb9-d06a-4cfd-821d-294c23ff231d",
+      "name": "Ninja 422",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1272,
+      "viewed": false
+    },
+    {
+      "id": "bb49a62f-0e8d-4eea-a114-c185d002269d",
+      "name": "Ninja 423",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7975,
+      "viewed": false
+    },
+    {
+      "id": "f3e0a3cb-e33e-4fbd-9983-2a5da949d6ef",
+      "name": "Ninja 424",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4841,
+      "viewed": false
+    },
+    {
+      "id": "ace2c9b8-e593-4f35-b238-4d0200f3aa48",
+      "name": "Ninja 425",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 943,
+      "viewed": false
+    },
+    {
+      "id": "0210762a-7268-45b1-b430-5b724fc5fd78",
+      "name": "Ninja 426",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2137,
+      "viewed": false
+    },
+    {
+      "id": "506091af-bd39-4034-a1fb-d7cddd845066",
+      "name": "Ninja 427",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4947,
+      "viewed": false
+    },
+    {
+      "id": "9262a2fb-c7ed-4aaf-9844-4758fe2c2e25",
+      "name": "Ninja 428",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9766,
+      "viewed": false
+    },
+    {
+      "id": "41dd1bba-60d9-4132-9bb9-cdf395de1a93",
+      "name": "Ninja 429",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3761,
+      "viewed": false
+    },
+    {
+      "id": "ef28cae8-315b-4d1c-9728-48cae1ff4588",
+      "name": "Ninja 430",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8383,
+      "viewed": false
+    },
+    {
+      "id": "b105facd-adcc-49ec-abbd-0b448698fda2",
+      "name": "Ninja 431",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7774,
+      "viewed": false
+    },
+    {
+      "id": "81ebcda7-0ca1-47a4-ac20-649200db47e7",
+      "name": "Ninja 432",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4759,
+      "viewed": false
+    },
+    {
+      "id": "7ace8c68-095f-41e5-900a-a5c263339596",
+      "name": "Ninja 433",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1588,
+      "viewed": false
+    },
+    {
+      "id": "79dc3d9d-88a0-4ec9-b551-37fd2d97a7db",
+      "name": "Ninja 434",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5965,
+      "viewed": false
+    },
+    {
+      "id": "c24987dc-2194-421e-a7fa-5ebee8fb4886",
+      "name": "Ninja 435",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5838,
+      "viewed": false
+    },
+    {
+      "id": "6378a22e-5582-4a53-8f3d-aa4f87b1f5c8",
+      "name": "Ninja 436",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1980,
+      "viewed": false
+    },
+    {
+      "id": "cd709763-dc06-4d0e-bdd8-071893797fed",
+      "name": "Ninja 437",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5962,
+      "viewed": false
+    },
+    {
+      "id": "a2526fe7-88cf-4292-9078-8e0157018319",
+      "name": "Ninja 438",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4088,
+      "viewed": false
+    },
+    {
+      "id": "aab5b704-0de0-4209-882f-9eea4b1ed362",
+      "name": "Ninja 439",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2861,
+      "viewed": false
+    },
+    {
+      "id": "9c685f10-9c6c-4b9c-a7aa-6279592ff72a",
+      "name": "Ninja 440",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 392,
+      "viewed": false
+    },
+    {
+      "id": "920e236f-ccfe-4d52-9013-bd00585b40bf",
+      "name": "Ninja 441",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5285,
+      "viewed": false
+    },
+    {
+      "id": "06e22433-0069-4a3d-9641-4bdf0e12f912",
+      "name": "Ninja 442",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1718,
+      "viewed": false
+    },
+    {
+      "id": "b5d54c89-fe56-4ba1-a5fc-ce56196d5587",
+      "name": "Ninja 443",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 687,
+      "viewed": false
+    },
+    {
+      "id": "ed468131-d58b-4967-9055-3ef233341458",
+      "name": "Ninja 444",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8420,
+      "viewed": false
+    },
+    {
+      "id": "0ca67742-5b9d-4eb1-8c0a-3b69e1a5ec53",
+      "name": "Ninja 445",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8529,
+      "viewed": false
+    },
+    {
+      "id": "d65b350d-896e-49f2-a524-e0aa0672ac13",
+      "name": "Ninja 446",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7964,
+      "viewed": false
+    },
+    {
+      "id": "4118496d-e06d-46a5-88fd-cb9711289505",
+      "name": "Ninja 447",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5525,
+      "viewed": false
+    },
+    {
+      "id": "16c0674b-46b1-43d6-9801-45945cde9785",
+      "name": "Ninja 448",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6843,
+      "viewed": false
+    },
+    {
+      "id": "3568e3f7-9cd7-43f7-b7a7-7c7d87c1b2ca",
+      "name": "Ninja 449",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9290,
+      "viewed": false
+    },
+    {
+      "id": "328310ac-3bf0-4923-87b5-abf099d1581f",
+      "name": "Ninja 450",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8285,
+      "viewed": false
+    },
+    {
+      "id": "3efe69a4-d566-4916-a640-3e617f329bed",
+      "name": "Ninja 451",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 883,
+      "viewed": false
+    },
+    {
+      "id": "9a086389-f22e-4d9a-93d8-b11aed142d15",
+      "name": "Ninja 452",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4292,
+      "viewed": false
+    },
+    {
+      "id": "d8e99bb6-1a28-4abb-877c-4a467665f945",
+      "name": "Ninja 453",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5093,
+      "viewed": false
+    },
+    {
+      "id": "bc646f8b-f12c-4865-a492-34f4ed4c52f8",
+      "name": "Ninja 454",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3945,
+      "viewed": false
+    },
+    {
+      "id": "bbd5b3d1-7798-4580-b422-6a7cb4e9044a",
+      "name": "Ninja 455",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3137,
+      "viewed": false
+    },
+    {
+      "id": "181bb5d3-e9a0-45d8-b994-2bdb6e17fd03",
+      "name": "Ninja 456",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6401,
+      "viewed": false
+    },
+    {
+      "id": "9278cd8f-7522-48bd-b4dd-f959d09898a4",
+      "name": "Ninja 457",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3284,
+      "viewed": false
+    },
+    {
+      "id": "78a96ca4-2ba7-4536-899d-923dffc0012d",
+      "name": "Ninja 458",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9610,
+      "viewed": false
+    },
+    {
+      "id": "eb0fc795-38c2-4422-a01e-63017a725219",
+      "name": "Ninja 459",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 112,
+      "viewed": false
+    },
+    {
+      "id": "f0ec5b96-1764-445e-b4a9-9f6f3c6d019d",
+      "name": "Ninja 460",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1228,
+      "viewed": false
+    },
+    {
+      "id": "d03e0323-7a01-44f7-bc1a-46f052ea45e6",
+      "name": "Ninja 461",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9431,
+      "viewed": false
+    },
+    {
+      "id": "38c5fdd3-5a43-48ef-ba55-2206893f9a76",
+      "name": "Ninja 462",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5216,
+      "viewed": false
+    },
+    {
+      "id": "198357c8-ce11-40e0-aaed-8282f80bae75",
+      "name": "Ninja 463",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9836,
+      "viewed": false
+    },
+    {
+      "id": "6b7f9ad9-9f96-43dd-a8dc-7fc16dd955fa",
+      "name": "Ninja 464",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4425,
+      "viewed": false
+    },
+    {
+      "id": "1ee173e9-e9db-4ab7-82e2-54014fa81222",
+      "name": "Ninja 465",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9570,
+      "viewed": false
+    },
+    {
+      "id": "98ac97b0-a8bb-49bc-8d4c-41808862629a",
+      "name": "Ninja 466",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2954,
+      "viewed": false
+    },
+    {
+      "id": "98015f45-6ff2-49e2-8f47-3992b9bf4521",
+      "name": "Ninja 467",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 866,
+      "viewed": false
+    },
+    {
+      "id": "33f8ce60-ea3c-4d39-b762-fcf01a734f4e",
+      "name": "Ninja 468",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9275,
+      "viewed": false
+    },
+    {
+      "id": "20d9b286-1776-44da-8e0f-9828c396ce2e",
+      "name": "Ninja 469",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2627,
+      "viewed": false
+    },
+    {
+      "id": "0d4ffe4d-d0d9-4ba7-ba82-a3f245d231a2",
+      "name": "Ninja 470",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7391,
+      "viewed": false
+    },
+    {
+      "id": "03357d36-24bd-4f17-a4b8-14f1c3d2f22f",
+      "name": "Ninja 471",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 988,
+      "viewed": false
+    },
+    {
+      "id": "02453a66-1caf-4755-8b5c-f89287dab3bc",
+      "name": "Ninja 472",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2732,
+      "viewed": false
+    },
+    {
+      "id": "a4799765-4b32-4a6a-bc38-e27b16bfc8d7",
+      "name": "Ninja 473",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2618,
+      "viewed": false
+    },
+    {
+      "id": "1c2f94b8-f087-496a-913c-7f47bec575c4",
+      "name": "Ninja 474",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1610,
+      "viewed": false
+    },
+    {
+      "id": "f43f20eb-9c02-4765-9679-787c7191a67e",
+      "name": "Ninja 475",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7701,
+      "viewed": false
+    },
+    {
+      "id": "faafdf2f-17a7-4a09-a28f-633408595b45",
+      "name": "Ninja 476",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2794,
+      "viewed": false
+    },
+    {
+      "id": "5a529ddf-0afd-4c81-ae8f-af6a0737892b",
+      "name": "Ninja 477",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7023,
+      "viewed": false
+    },
+    {
+      "id": "6b191ba4-dbe9-49ec-a673-c11b3112e4ae",
+      "name": "Ninja 478",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3684,
+      "viewed": false
+    },
+    {
+      "id": "0ec0356d-72c8-4809-ba7f-80e17a300664",
+      "name": "Ninja 479",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9221,
+      "viewed": false
+    },
+    {
+      "id": "5f191683-4829-4cad-918e-cbb12ea348d5",
+      "name": "Ninja 480",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2778,
+      "viewed": false
+    },
+    {
+      "id": "edf1df00-421f-4e28-95b1-8337578f18df",
+      "name": "Ninja 481",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9166,
+      "viewed": false
+    },
+    {
+      "id": "f60ae5ae-1b97-47dc-ac45-b1c60773acb7",
+      "name": "Ninja 482",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 876,
+      "viewed": false
+    },
+    {
+      "id": "aa6054de-b86e-4ec4-9a62-7c1589d680cf",
+      "name": "Ninja 483",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2549,
+      "viewed": false
+    },
+    {
+      "id": "ee049c14-8432-4cab-a8f0-6bb7d14b7d6e",
+      "name": "Ninja 484",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 961,
+      "viewed": false
+    },
+    {
+      "id": "d5615386-d654-469a-8861-a5bf2900f308",
+      "name": "Ninja 485",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2232,
+      "viewed": false
+    },
+    {
+      "id": "c346660e-05ec-4cd6-87d0-9ee1087d615c",
+      "name": "Ninja 486",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5241,
+      "viewed": false
+    },
+    {
+      "id": "5caaedfc-f655-41da-9390-4ba05fcf9de9",
+      "name": "Ninja 487",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3473,
+      "viewed": false
+    },
+    {
+      "id": "98c3b42e-8fa4-4cf6-9497-8c589dedff65",
+      "name": "Ninja 488",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6234,
+      "viewed": false
+    },
+    {
+      "id": "7003e247-a788-46ce-a17e-d47aa96c8f1d",
+      "name": "Ninja 489",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2766,
+      "viewed": false
+    },
+    {
+      "id": "f3e245ec-440b-4457-b737-0d4c5659fe29",
+      "name": "Ninja 490",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8381,
+      "viewed": false
+    },
+    {
+      "id": "aab7c711-73da-4045-8c32-8dd0682980b5",
+      "name": "Ninja 491",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8467,
+      "viewed": false
+    },
+    {
+      "id": "4952db4f-0574-4871-b934-ffdd41e3eed5",
+      "name": "Ninja 492",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1183,
+      "viewed": false
+    },
+    {
+      "id": "4e6fe1cc-1aef-4b0e-be9d-6c7a953902f5",
+      "name": "Ninja 493",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9719,
+      "viewed": false
+    },
+    {
+      "id": "3751d1cb-2a21-47f2-9549-64e055144598",
+      "name": "Ninja 494",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2521,
+      "viewed": false
+    },
+    {
+      "id": "52015339-f9c1-4c8e-ad7c-a5acfd6d0d10",
+      "name": "Ninja 495",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8636,
+      "viewed": false
+    },
+    {
+      "id": "4d0e51c0-4468-4667-b2e3-c319a20b66d4",
+      "name": "Ninja 496",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2880,
+      "viewed": false
+    },
+    {
+      "id": "3fb2af29-4677-4290-ab94-91ed2ed6d2fb",
+      "name": "Ninja 497",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2885,
+      "viewed": false
+    },
+    {
+      "id": "1b2c77be-4379-48db-afc5-8d14810247fe",
+      "name": "Ninja 498",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1708,
+      "viewed": false
+    },
+    {
+      "id": "fb05e74b-4b9e-4b9f-9b4e-356733dbb821",
+      "name": "Ninja 499",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8530,
+      "viewed": false
+    },
+    {
+      "id": "3c3b8c20-2bdf-42db-a6d3-de90a06b5c28",
+      "name": "Ninja 500",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2342,
+      "viewed": false
+    },
+    {
+      "id": "37f70c87-8553-4c1d-bf3a-6b60ddb540ce",
+      "name": "Ninja 501",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6758,
+      "viewed": false
+    },
+    {
+      "id": "d82376ff-fb22-42d1-a7a4-40f4824fe6f8",
+      "name": "Ninja 502",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5116,
+      "viewed": false
+    },
+    {
+      "id": "12392284-bee6-47a6-9ed5-cf45bdf8c0db",
+      "name": "Ninja 503",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7536,
+      "viewed": false
+    },
+    {
+      "id": "92a5055c-a6e4-4e80-9b52-60ef90d8b350",
+      "name": "Ninja 504",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7913,
+      "viewed": false
+    },
+    {
+      "id": "0c9f4baa-18ee-49f2-9784-70864566d1d5",
+      "name": "Ninja 505",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8879,
+      "viewed": false
+    },
+    {
+      "id": "bc46e4b0-0c77-4575-a6c0-6257faa80c2b",
+      "name": "Ninja 506",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2402,
+      "viewed": false
+    },
+    {
+      "id": "b11adcda-d663-4130-a126-9455028c3d5a",
+      "name": "Ninja 507",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7182,
+      "viewed": false
+    },
+    {
+      "id": "5755a500-81f9-4e1b-b970-ba73e105e292",
+      "name": "Ninja 508",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7812,
+      "viewed": false
+    },
+    {
+      "id": "8d012611-23fe-49b9-bfaf-530d983f9fb9",
+      "name": "Ninja 509",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6246,
+      "viewed": false
+    },
+    {
+      "id": "6bca5aca-11c4-4eb1-b899-bc407211c6f3",
+      "name": "Ninja 510",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7121,
+      "viewed": false
+    },
+    {
+      "id": "12d28c36-2abf-44fc-bc24-9046d177663c",
+      "name": "Ninja 511",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 477,
+      "viewed": false
+    },
+    {
+      "id": "41da1781-c6fb-44f2-972f-f04d12185c8f",
+      "name": "Ninja 512",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7979,
+      "viewed": false
+    },
+    {
+      "id": "78b6cdc5-c649-4b4b-883f-316c91639d24",
+      "name": "Ninja 513",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7589,
+      "viewed": false
+    },
+    {
+      "id": "9d69a543-cf1b-4e62-83ed-dae3f674d73e",
+      "name": "Ninja 514",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7805,
+      "viewed": false
+    },
+    {
+      "id": "71a3ad0a-2b24-4af4-b249-72c85848c670",
+      "name": "Ninja 515",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2714,
+      "viewed": false
+    },
+    {
+      "id": "bf5b8b90-a0db-468a-b08c-88b464e7acfd",
+      "name": "Ninja 516",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8866,
+      "viewed": false
+    },
+    {
+      "id": "04ef9d96-c8da-44c3-8181-d60307a55b8e",
+      "name": "Ninja 517",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9390,
+      "viewed": false
+    },
+    {
+      "id": "bb164196-4e45-436d-815e-d1d7466e9cf3",
+      "name": "Ninja 518",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5163,
+      "viewed": false
+    },
+    {
+      "id": "058a652a-7808-4bdc-b28e-1404c8a814a8",
+      "name": "Ninja 519",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 932,
+      "viewed": false
+    },
+    {
+      "id": "8a156dda-c59c-4b4a-8d34-b10e2d69c9ab",
+      "name": "Ninja 520",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5453,
+      "viewed": false
+    },
+    {
+      "id": "6881fea1-d39b-4c62-9769-68c49f25e80c",
+      "name": "Ninja 521",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6060,
+      "viewed": false
+    },
+    {
+      "id": "dcef5e3e-45a9-4d0e-a114-2226791f6266",
+      "name": "Ninja 522",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9500,
+      "viewed": false
+    },
+    {
+      "id": "ef8cd8c9-292c-4a93-9f1f-9defea2c02a1",
+      "name": "Ninja 523",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7981,
+      "viewed": false
+    },
+    {
+      "id": "fdcb0eb6-92e9-4840-b0a6-b413c0f25294",
+      "name": "Ninja 524",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7708,
+      "viewed": false
+    },
+    {
+      "id": "422cddb1-41f9-4553-af91-78aca4447326",
+      "name": "Ninja 525",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6962,
+      "viewed": false
+    },
+    {
+      "id": "74d69a84-17d9-46a9-853c-9766993108e9",
+      "name": "Ninja 526",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1370,
+      "viewed": false
+    },
+    {
+      "id": "c7cd52d8-f505-434c-88bb-2c0457382e67",
+      "name": "Ninja 527",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8259,
+      "viewed": false
+    },
+    {
+      "id": "2ec2e3e2-37fa-4c0b-9ffc-bb738239d678",
+      "name": "Ninja 528",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5817,
+      "viewed": false
+    },
+    {
+      "id": "3a71d946-ac89-4de0-a570-81b4f905cfab",
+      "name": "Ninja 529",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6248,
+      "viewed": false
+    },
+    {
+      "id": "91ffd44d-93f5-4608-8bf6-d31ad71e7ae4",
+      "name": "Ninja 530",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4022,
+      "viewed": false
+    },
+    {
+      "id": "64f9febe-7eea-40fd-b327-22d1321b367e",
+      "name": "Ninja 531",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9921,
+      "viewed": false
+    },
+    {
+      "id": "e9def21d-73ce-4aa7-922d-ca480f28e79c",
+      "name": "Ninja 532",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 519,
+      "viewed": false
+    },
+    {
+      "id": "fd72898c-5389-42fb-a8cb-5cfb2f591480",
+      "name": "Ninja 533",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7211,
+      "viewed": false
+    },
+    {
+      "id": "52edeed2-b900-49a4-b5bc-31d85014536f",
+      "name": "Ninja 534",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8947,
+      "viewed": false
+    },
+    {
+      "id": "32baf0ab-5d5a-419a-b8a5-7b84ebd57bdf",
+      "name": "Ninja 535",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2434,
+      "viewed": false
+    },
+    {
+      "id": "2a010f21-336c-4ead-99bc-b449fb2be398",
+      "name": "Ninja 536",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3311,
+      "viewed": false
+    },
+    {
+      "id": "7dbe7cae-3111-4820-bb7b-511958f13a16",
+      "name": "Ninja 537",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1561,
+      "viewed": false
+    },
+    {
+      "id": "67a7a08e-8927-4501-bddc-5a389b39d734",
+      "name": "Ninja 538",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7533,
+      "viewed": false
+    },
+    {
+      "id": "08801339-0d0a-4c82-af0f-fed8655457c5",
+      "name": "Ninja 539",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7511,
+      "viewed": false
+    },
+    {
+      "id": "8371ffbb-9e80-4d9e-bec3-4148ecfcbf1e",
+      "name": "Ninja 540",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3681,
+      "viewed": false
+    },
+    {
+      "id": "0900fa17-3f1e-4e87-b9e7-b02d96448d22",
+      "name": "Ninja 541",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 717,
+      "viewed": false
+    },
+    {
+      "id": "09de1ea5-af04-47a1-b024-c6db655e9fd1",
+      "name": "Ninja 542",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3976,
+      "viewed": false
+    },
+    {
+      "id": "65799f67-dd68-4a9e-8e6e-27a429a854b6",
+      "name": "Ninja 543",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2340,
+      "viewed": false
+    },
+    {
+      "id": "77269fca-d294-48a2-85f4-cdfe932d0bd4",
+      "name": "Ninja 544",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8072,
+      "viewed": false
+    },
+    {
+      "id": "3f2f763c-6851-4ef8-b80e-e1aa00f8494b",
+      "name": "Ninja 545",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5388,
+      "viewed": false
+    },
+    {
+      "id": "5dc66c12-14b6-465c-96b9-fa6954655fae",
+      "name": "Ninja 546",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8974,
+      "viewed": false
+    },
+    {
+      "id": "cf8e3205-d127-427d-a482-dbfd9e813ddc",
+      "name": "Ninja 547",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8953,
+      "viewed": false
+    },
+    {
+      "id": "6d44998f-1669-43cb-9223-05a20d61ef51",
+      "name": "Ninja 548",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8162,
+      "viewed": false
+    },
+    {
+      "id": "38be80af-01b7-4ad3-adc0-d1e9a07b7c1a",
+      "name": "Ninja 549",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8291,
+      "viewed": false
+    },
+    {
+      "id": "47aa53a1-7fa4-4dc6-97a4-fb53e244843e",
+      "name": "Ninja 550",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7005,
+      "viewed": false
+    },
+    {
+      "id": "552952b1-9d70-48ad-a063-342b4a896327",
+      "name": "Ninja 551",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2218,
+      "viewed": false
+    },
+    {
+      "id": "b6d655e5-d7fc-473d-9ce1-4c9262b309fd",
+      "name": "Ninja 552",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3724,
+      "viewed": false
+    },
+    {
+      "id": "dccd1d09-b2c9-4773-b82b-d626ccdc104d",
+      "name": "Ninja 553",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8606,
+      "viewed": false
+    },
+    {
+      "id": "6b486937-c9c1-479f-8df9-92eabd74ec04",
+      "name": "Ninja 554",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 908,
+      "viewed": false
+    },
+    {
+      "id": "e3f866b4-6bcf-4349-a43d-6e321024a6dd",
+      "name": "Ninja 555",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8112,
+      "viewed": false
+    },
+    {
+      "id": "525ad1fd-4270-4c11-b01b-da56eb2fab69",
+      "name": "Ninja 556",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6273,
+      "viewed": false
+    },
+    {
+      "id": "109494c3-01f1-4beb-b401-218c8a76a0fd",
+      "name": "Ninja 557",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8301,
+      "viewed": false
+    },
+    {
+      "id": "e5324932-e566-47fa-8122-73a1ec18be13",
+      "name": "Ninja 558",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8978,
+      "viewed": false
+    },
+    {
+      "id": "be7cbba0-8fd2-4fa5-8517-1530ec4f1572",
+      "name": "Ninja 559",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8325,
+      "viewed": false
+    },
+    {
+      "id": "05c3032c-12ef-405f-9e91-24f2bdb48c74",
+      "name": "Ninja 560",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6631,
+      "viewed": false
+    },
+    {
+      "id": "6f1ca1ee-fab3-4294-8aa4-5cd8dea32fc1",
+      "name": "Ninja 561",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1399,
+      "viewed": false
+    },
+    {
+      "id": "ad03f09a-c27f-4ea8-a1ab-27b837eba6ec",
+      "name": "Ninja 562",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 491,
+      "viewed": false
+    },
+    {
+      "id": "d5abece0-4892-479f-afae-ca67b811a127",
+      "name": "Ninja 563",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5806,
+      "viewed": false
+    },
+    {
+      "id": "b3a823a5-0fc8-477d-b91c-686732efb5f2",
+      "name": "Ninja 564",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9348,
+      "viewed": false
+    },
+    {
+      "id": "0d6812b9-39be-4aa0-b354-bd4ff92cf80a",
+      "name": "Ninja 565",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4908,
+      "viewed": false
+    },
+    {
+      "id": "95512b98-7da2-4763-ba52-927455de70ae",
+      "name": "Ninja 566",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8648,
+      "viewed": false
+    },
+    {
+      "id": "e66cc535-b0ef-4308-b26e-9c11bedf662f",
+      "name": "Ninja 567",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2376,
+      "viewed": false
+    },
+    {
+      "id": "a5afc8de-f87e-40d2-96b0-1b83459cd6d0",
+      "name": "Ninja 568",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6681,
+      "viewed": false
+    },
+    {
+      "id": "189156c0-d1e3-4f03-afcc-da8d167f9be4",
+      "name": "Ninja 569",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2687,
+      "viewed": false
+    },
+    {
+      "id": "2e13786b-3e5f-481d-a4c8-aba3251404c0",
+      "name": "Ninja 570",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3778,
+      "viewed": false
+    },
+    {
+      "id": "08967d5c-68dc-4aaa-a1ef-310b7fe0e8ae",
+      "name": "Ninja 571",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5628,
+      "viewed": false
+    },
+    {
+      "id": "36f9741c-4287-41df-a865-0155bd153e01",
+      "name": "Ninja 572",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5205,
+      "viewed": false
+    },
+    {
+      "id": "2e562d79-e7aa-41c2-93da-466e80d0e754",
+      "name": "Ninja 573",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3138,
+      "viewed": false
+    },
+    {
+      "id": "fc80bee3-41c7-47c4-a40b-adb047749a03",
+      "name": "Ninja 574",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3276,
+      "viewed": false
+    },
+    {
+      "id": "efb628f6-6352-4a98-b063-5a9b62dba52d",
+      "name": "Ninja 575",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6003,
+      "viewed": false
+    },
+    {
+      "id": "94f18f55-7055-43ed-a3df-176fbefaa7c2",
+      "name": "Ninja 576",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8377,
+      "viewed": false
+    },
+    {
+      "id": "91acef18-c521-41be-b529-ace3c439b520",
+      "name": "Ninja 577",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4694,
+      "viewed": false
+    },
+    {
+      "id": "03a877b4-5618-419d-ab67-80645b6f1a60",
+      "name": "Ninja 578",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 156,
+      "viewed": false
+    },
+    {
+      "id": "2375fe1a-4fe4-4540-92e7-d8a8ac133066",
+      "name": "Ninja 579",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6600,
+      "viewed": false
+    },
+    {
+      "id": "a44117d7-0e09-444f-bbe3-a3fb30f5cd13",
+      "name": "Ninja 580",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5657,
+      "viewed": false
+    },
+    {
+      "id": "1ad8546a-5df5-4f41-9876-ff617ad41cee",
+      "name": "Ninja 581",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1506,
+      "viewed": false
+    },
+    {
+      "id": "35cf1ba4-15ff-4a41-be7e-89b8c0732217",
+      "name": "Ninja 582",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4189,
+      "viewed": false
+    },
+    {
+      "id": "b8d90edb-beac-40d0-b1f6-bfcc9b21c19a",
+      "name": "Ninja 583",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1287,
+      "viewed": false
+    },
+    {
+      "id": "c3de65a8-5e21-43cf-bcde-6fb4060a361d",
+      "name": "Ninja 584",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7369,
+      "viewed": false
+    },
+    {
+      "id": "55f46997-568f-48b8-88e7-36003db19a7a",
+      "name": "Ninja 585",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6354,
+      "viewed": false
+    },
+    {
+      "id": "1e24d3e7-755c-4e6a-9928-19518147ea9b",
+      "name": "Ninja 586",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9307,
+      "viewed": false
+    },
+    {
+      "id": "9d7766a4-aa99-47df-99cb-d776067e409e",
+      "name": "Ninja 587",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8769,
+      "viewed": false
+    },
+    {
+      "id": "dc44c076-f4fb-4a34-ad16-c127cfe4f740",
+      "name": "Ninja 588",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9572,
+      "viewed": false
+    },
+    {
+      "id": "d4828ef5-f68f-45ab-b832-523751d68237",
+      "name": "Ninja 589",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 854,
+      "viewed": false
+    },
+    {
+      "id": "a86280fc-0bca-49b6-ae6c-77b10961dc77",
+      "name": "Ninja 590",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6556,
+      "viewed": false
+    },
+    {
+      "id": "76298bc3-2e14-4efc-918b-cd29fb97af8e",
+      "name": "Ninja 591",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4857,
+      "viewed": false
+    },
+    {
+      "id": "690b4218-41c3-466e-a641-f91a831c3045",
+      "name": "Ninja 592",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6333,
+      "viewed": false
+    },
+    {
+      "id": "cb210032-b43b-4b00-ba54-ea71deddb7c0",
+      "name": "Ninja 593",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8832,
+      "viewed": false
+    },
+    {
+      "id": "6e07c2a0-dbe1-42c3-a98c-8f750435aa06",
+      "name": "Ninja 594",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8309,
+      "viewed": false
+    },
+    {
+      "id": "55ab6a46-8f7e-4522-8221-261a7977a1fc",
+      "name": "Ninja 595",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2862,
+      "viewed": false
+    },
+    {
+      "id": "bfbad49b-3126-4243-a7cd-90205c88f97c",
+      "name": "Ninja 596",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7451,
+      "viewed": false
+    },
+    {
+      "id": "33a8b278-81d6-442a-9244-a6091dd9c18e",
+      "name": "Ninja 597",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6603,
+      "viewed": false
+    },
+    {
+      "id": "4bf74d3d-5985-42ab-b23d-c5f8161ac813",
+      "name": "Ninja 598",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7866,
+      "viewed": false
+    },
+    {
+      "id": "cc8c0cdf-3d48-429e-b104-7cf854657e74",
+      "name": "Ninja 599",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1934,
+      "viewed": false
+    },
+    {
+      "id": "f3bce417-07ea-4b5b-989a-a43b8e5f2eac",
+      "name": "Ninja 600",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5853,
+      "viewed": false
+    },
+    {
+      "id": "87d94dc2-35a7-4f85-a243-32ac612dd241",
+      "name": "Ninja 601",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6659,
+      "viewed": false
+    },
+    {
+      "id": "878a02cb-ea64-48cc-b693-797202101b51",
+      "name": "Ninja 602",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3308,
+      "viewed": false
+    },
+    {
+      "id": "3737e5c9-110a-4194-9ae2-e178992600b7",
+      "name": "Ninja 603",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1964,
+      "viewed": false
+    },
+    {
+      "id": "93f7444f-6a11-4e2a-aa42-8f3b50ad5ea1",
+      "name": "Ninja 604",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9813,
+      "viewed": false
+    },
+    {
+      "id": "08a430c5-ba99-434a-87d4-fe4ff7aeedea",
+      "name": "Ninja 605",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2851,
+      "viewed": false
+    },
+    {
+      "id": "51f21fcd-fbaf-4c0a-ab62-d13c58bccdcb",
+      "name": "Ninja 606",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5995,
+      "viewed": false
+    },
+    {
+      "id": "eab235d4-91ef-4589-aab3-bcfc89616ba7",
+      "name": "Ninja 607",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5157,
+      "viewed": false
+    },
+    {
+      "id": "acc7296d-73e6-4c9c-a82f-15e825b69141",
+      "name": "Ninja 608",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9582,
+      "viewed": false
+    },
+    {
+      "id": "1aaa9621-a76f-4ec5-a152-7a8e4106bbfd",
+      "name": "Ninja 609",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6243,
+      "viewed": false
+    },
+    {
+      "id": "b987f227-eca9-4611-b560-71b46c1355a0",
+      "name": "Ninja 610",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3472,
+      "viewed": false
+    },
+    {
+      "id": "ccc80ae8-bd43-4520-bec1-449633815a10",
+      "name": "Ninja 611",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9522,
+      "viewed": false
+    },
+    {
+      "id": "1a997047-bcf0-4ee5-805c-64ea5b420e31",
+      "name": "Ninja 612",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1470,
+      "viewed": false
+    },
+    {
+      "id": "3e7adb09-e422-4d04-a696-a4ecbd0fbb31",
+      "name": "Ninja 613",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9031,
+      "viewed": false
+    },
+    {
+      "id": "3f333866-bd40-499a-8884-690f5ec89d28",
+      "name": "Ninja 614",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3739,
+      "viewed": false
+    },
+    {
+      "id": "4e358215-d9e1-455c-bd23-676bd790d8d4",
+      "name": "Ninja 615",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6625,
+      "viewed": false
+    },
+    {
+      "id": "c4af27d8-842c-42a9-a8f9-d31a10a0ed10",
+      "name": "Ninja 616",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3744,
+      "viewed": false
+    },
+    {
+      "id": "01a8be81-8f03-4e24-a933-85c631038190",
+      "name": "Ninja 617",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1389,
+      "viewed": false
+    },
+    {
+      "id": "8a4faa9b-1ab5-41df-9f8f-7a342f4b925e",
+      "name": "Ninja 618",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1760,
+      "viewed": false
+    },
+    {
+      "id": "94de6816-b892-4bf7-a036-5a09e49f522c",
+      "name": "Ninja 619",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5333,
+      "viewed": false
+    },
+    {
+      "id": "036d911d-2383-458c-873d-d9dc4f87a6e4",
+      "name": "Ninja 620",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4903,
+      "viewed": false
+    },
+    {
+      "id": "9cdd436c-b692-4cf1-9712-05b18072be61",
+      "name": "Ninja 621",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5659,
+      "viewed": false
+    },
+    {
+      "id": "be7acd5c-e33e-4b64-b584-30fd97bf5d65",
+      "name": "Ninja 622",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9886,
+      "viewed": false
+    },
+    {
+      "id": "f87c1b2a-2d7d-48d3-9756-2d6747435f5d",
+      "name": "Ninja 623",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 388,
+      "viewed": false
+    },
+    {
+      "id": "99be135a-c125-4532-bd76-c75e120199fe",
+      "name": "Ninja 624",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6765,
+      "viewed": false
+    },
+    {
+      "id": "21333b62-d210-41f9-aa30-b7a6b8fdbfa0",
+      "name": "Ninja 625",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1561,
+      "viewed": false
+    },
+    {
+      "id": "88ae6ee2-6d31-457c-a06d-1a5e00b1764e",
+      "name": "Ninja 626",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2329,
+      "viewed": false
+    },
+    {
+      "id": "a1311665-11e4-4111-b2c0-1f82961bf191",
+      "name": "Ninja 627",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6034,
+      "viewed": false
+    },
+    {
+      "id": "35ec4b74-4f86-435e-81eb-06608b3ae1b4",
+      "name": "Ninja 628",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7758,
+      "viewed": false
+    },
+    {
+      "id": "43f88eb0-387c-4f52-b9c4-c292613c3b58",
+      "name": "Ninja 629",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4491,
+      "viewed": false
+    },
+    {
+      "id": "17cd2a7d-4223-4265-a055-13738f743d52",
+      "name": "Ninja 630",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4954,
+      "viewed": false
+    },
+    {
+      "id": "3bd1280b-b1cd-4e9f-949a-8e5d364c373d",
+      "name": "Ninja 631",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5205,
+      "viewed": false
+    },
+    {
+      "id": "8fb6c8a0-0647-42f4-a92d-b731f2d715b5",
+      "name": "Ninja 632",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9195,
+      "viewed": false
+    },
+    {
+      "id": "6e4c5134-adfb-461e-808a-84a907829e26",
+      "name": "Ninja 633",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5976,
+      "viewed": false
+    },
+    {
+      "id": "01ab6bad-d3e2-49b0-8cb6-f0c521c27188",
+      "name": "Ninja 634",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7110,
+      "viewed": false
+    },
+    {
+      "id": "d35c60a9-6601-4bfb-9763-acd5f0c8b235",
+      "name": "Ninja 635",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6303,
+      "viewed": false
+    },
+    {
+      "id": "0d838e96-a12d-4aaa-9281-856ff587ee61",
+      "name": "Ninja 636",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8711,
+      "viewed": false
+    },
+    {
+      "id": "5f58338e-98bc-4486-b7b8-4ed5b4e95793",
+      "name": "Ninja 637",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7002,
+      "viewed": false
+    },
+    {
+      "id": "f3af0b3d-d633-423a-92cc-3541ec8808ac",
+      "name": "Ninja 638",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 546,
+      "viewed": false
+    },
+    {
+      "id": "0ac525e1-2fa1-48bf-bc00-247a97e23931",
+      "name": "Ninja 639",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5262,
+      "viewed": false
+    },
+    {
+      "id": "d8235e64-393b-4107-901a-a507ae1a17e2",
+      "name": "Ninja 640",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1821,
+      "viewed": false
+    },
+    {
+      "id": "2406a4d5-da02-472f-b8ca-8c18606a767e",
+      "name": "Ninja 641",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2103,
+      "viewed": false
+    },
+    {
+      "id": "eaad0303-2fa9-4b19-91f2-21ba56fceb60",
+      "name": "Ninja 642",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4818,
+      "viewed": false
+    },
+    {
+      "id": "276ebc52-c4bd-404b-98f1-e8ae0001d54c",
+      "name": "Ninja 643",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8914,
+      "viewed": false
+    },
+    {
+      "id": "e9adad3e-9cf2-4905-92fd-955c123c2c5e",
+      "name": "Ninja 644",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4724,
+      "viewed": false
+    },
+    {
+      "id": "ef31248b-8c0f-47fd-902c-190fb6334f4a",
+      "name": "Ninja 645",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6522,
+      "viewed": false
+    },
+    {
+      "id": "33cb063c-58b8-422a-acf8-7aae66a953e5",
+      "name": "Ninja 646",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5491,
+      "viewed": false
+    },
+    {
+      "id": "3cf83e0f-2d1f-469b-a614-1fae0e758225",
+      "name": "Ninja 647",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3814,
+      "viewed": false
+    },
+    {
+      "id": "6960fa1b-8135-4939-a0b5-76b32651a41f",
+      "name": "Ninja 648",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4042,
+      "viewed": false
+    },
+    {
+      "id": "9467de8e-9f79-4c2e-a88c-b0b0a1cc7af6",
+      "name": "Ninja 649",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1552,
+      "viewed": false
+    },
+    {
+      "id": "e302e8f5-3c59-4120-a2e0-5c24fa0178f7",
+      "name": "Ninja 650",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8779,
+      "viewed": false
+    },
+    {
+      "id": "c3ce284b-90b5-4ee9-adc7-4025f11c4b89",
+      "name": "Ninja 651",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9786,
+      "viewed": false
+    },
+    {
+      "id": "bcfcfcae-fa30-4390-b4e5-3a3c288f6385",
+      "name": "Ninja 652",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9910,
+      "viewed": false
+    },
+    {
+      "id": "81f6d017-847c-4cbc-82fe-0ef92af15180",
+      "name": "Ninja 653",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6680,
+      "viewed": false
+    },
+    {
+      "id": "255757f3-39e8-469d-a895-c7733cd7e588",
+      "name": "Ninja 654",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2717,
+      "viewed": false
+    },
+    {
+      "id": "6d298f02-4abe-4fb1-9cf1-068fce8a0d30",
+      "name": "Ninja 655",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 612,
+      "viewed": false
+    },
+    {
+      "id": "ae7a55a5-fb66-44fd-aa50-88a6c9521470",
+      "name": "Ninja 656",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1417,
+      "viewed": false
+    },
+    {
+      "id": "e7a63ca2-7273-4293-b835-712947abb010",
+      "name": "Ninja 657",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7998,
+      "viewed": false
+    },
+    {
+      "id": "c8bb7571-4479-46b0-ab42-1755eff0ecf8",
+      "name": "Ninja 658",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7182,
+      "viewed": false
+    },
+    {
+      "id": "76bebbf9-8db9-4a98-8d9d-e54ccf721453",
+      "name": "Ninja 659",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4870,
+      "viewed": false
+    },
+    {
+      "id": "10ba2e32-84e9-4f92-a6c0-3032d149ffe6",
+      "name": "Ninja 660",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4307,
+      "viewed": false
+    },
+    {
+      "id": "3a91d77b-2d4a-4f90-b92f-2a79fb129b42",
+      "name": "Ninja 661",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1608,
+      "viewed": false
+    },
+    {
+      "id": "4ab1e0d3-acfc-4bb7-84c8-421b4d982732",
+      "name": "Ninja 662",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3342,
+      "viewed": false
+    },
+    {
+      "id": "6611cef5-ceaa-4fba-bb96-a2e17219e2f5",
+      "name": "Ninja 663",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8090,
+      "viewed": false
+    },
+    {
+      "id": "7e42becb-ba17-4a74-9590-5a109e65da6e",
+      "name": "Ninja 664",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1776,
+      "viewed": false
+    },
+    {
+      "id": "955995f2-af22-4bf1-9d16-4adcbc630970",
+      "name": "Ninja 665",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9691,
+      "viewed": false
+    },
+    {
+      "id": "3e9fc9e8-9411-4cea-b9e5-a95b624b8e38",
+      "name": "Ninja 666",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2498,
+      "viewed": false
+    },
+    {
+      "id": "b6770413-5799-4d25-b750-c9d78f2a7ad8",
+      "name": "Ninja 667",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8294,
+      "viewed": false
+    },
+    {
+      "id": "54283584-6430-44dc-838d-9a60392bf1ed",
+      "name": "Ninja 668",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9356,
+      "viewed": false
+    },
+    {
+      "id": "9191966f-bdf8-49c1-9f61-14a084ed90be",
+      "name": "Ninja 669",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8996,
+      "viewed": false
+    },
+    {
+      "id": "9705c009-61b8-495d-8267-e5bf13da9239",
+      "name": "Ninja 670",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3555,
+      "viewed": false
+    },
+    {
+      "id": "52d033cb-0134-4550-abbf-2ab6caef5f7f",
+      "name": "Ninja 671",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 126,
+      "viewed": false
+    },
+    {
+      "id": "1b206525-0dd7-4b3c-bbda-189b1259944a",
+      "name": "Ninja 672",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7755,
+      "viewed": false
+    },
+    {
+      "id": "20d09308-2395-47e0-8f28-3a8a0f29f247",
+      "name": "Ninja 673",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 405,
+      "viewed": false
+    },
+    {
+      "id": "a862e2c2-bfdf-44e8-9dd8-a9f2c528502e",
+      "name": "Ninja 674",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7273,
+      "viewed": false
+    },
+    {
+      "id": "e121e794-4c8a-4492-9430-1b0350e20d6d",
+      "name": "Ninja 675",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9721,
+      "viewed": false
+    },
+    {
+      "id": "fe926f74-2160-4362-a1c0-4962b4487966",
+      "name": "Ninja 676",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8733,
+      "viewed": false
+    },
+    {
+      "id": "b7bb044d-202e-408b-8cab-0afb4cfb883e",
+      "name": "Ninja 677",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8877,
+      "viewed": false
+    },
+    {
+      "id": "a6947c0d-7acf-433d-98cd-b4e7c98d2594",
+      "name": "Ninja 678",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9810,
+      "viewed": false
+    },
+    {
+      "id": "1caec968-3858-4aa8-ac1d-2351b0b058ba",
+      "name": "Ninja 679",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7799,
+      "viewed": false
+    },
+    {
+      "id": "20176628-058c-417c-a7c8-69b3ddbae709",
+      "name": "Ninja 680",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2486,
+      "viewed": false
+    },
+    {
+      "id": "8424f642-0f08-40c2-9eb9-dd39b0c66642",
+      "name": "Ninja 681",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5680,
+      "viewed": false
+    },
+    {
+      "id": "7a63a80c-6ef8-40e5-92db-af758223499e",
+      "name": "Ninja 682",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5128,
+      "viewed": false
+    },
+    {
+      "id": "37a76c67-a32d-40ec-ae00-de1277917aab",
+      "name": "Ninja 683",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 690,
+      "viewed": false
+    },
+    {
+      "id": "15ba6bbc-52fd-4b39-b4d7-68bcecb97c85",
+      "name": "Ninja 684",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1287,
+      "viewed": false
+    },
+    {
+      "id": "7af684e4-f3b8-4e1d-a5cf-4a87bb4247f0",
+      "name": "Ninja 685",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5943,
+      "viewed": false
+    },
+    {
+      "id": "aac4f904-5632-46e6-8722-6c41a158edfb",
+      "name": "Ninja 686",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5690,
+      "viewed": false
+    },
+    {
+      "id": "c6e2368c-7934-424f-8df4-55cb9974feaa",
+      "name": "Ninja 687",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5752,
+      "viewed": false
+    },
+    {
+      "id": "17418962-ea76-475e-8b58-44795b6169ec",
+      "name": "Ninja 688",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5446,
+      "viewed": false
+    },
+    {
+      "id": "b471e4d9-661c-492a-b5a7-5de56b7f658e",
+      "name": "Ninja 689",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 375,
+      "viewed": false
+    },
+    {
+      "id": "e738431e-6374-45d0-9d27-82eb0e7c2a7b",
+      "name": "Ninja 690",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3706,
+      "viewed": false
+    },
+    {
+      "id": "bdccff18-a8e1-4fb1-a108-d38cb4fc37a2",
+      "name": "Ninja 691",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2159,
+      "viewed": false
+    },
+    {
+      "id": "365deda2-73a7-4d6f-9f11-28aeb837615d",
+      "name": "Ninja 692",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7277,
+      "viewed": false
+    },
+    {
+      "id": "51d86d7a-61ef-437a-8dd1-285646dcd3d7",
+      "name": "Ninja 693",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6107,
+      "viewed": false
+    },
+    {
+      "id": "9e5f00cc-25fa-49b7-b7fd-aff1c78a91cd",
+      "name": "Ninja 694",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6634,
+      "viewed": false
+    },
+    {
+      "id": "1057bfea-2207-4326-a2ad-be79f16978a1",
+      "name": "Ninja 695",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8350,
+      "viewed": false
+    },
+    {
+      "id": "4d9919c9-0274-477c-bef8-3b93134613f5",
+      "name": "Ninja 696",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9014,
+      "viewed": false
+    },
+    {
+      "id": "8ec8b594-a69a-4044-b845-f4bfe5c7f399",
+      "name": "Ninja 697",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9127,
+      "viewed": false
+    },
+    {
+      "id": "c1b58d1f-41ef-4e68-95a3-b27841819508",
+      "name": "Ninja 698",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8879,
+      "viewed": false
+    },
+    {
+      "id": "22b90f3b-af0c-45ed-aee0-0f6497743746",
+      "name": "Ninja 699",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7780,
+      "viewed": false
+    },
+    {
+      "id": "dda972e3-8e63-4336-80fe-90886a5bd341",
+      "name": "Ninja 700",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7482,
+      "viewed": false
+    },
+    {
+      "id": "b15bf7ec-d313-47a1-9af9-7088af304f08",
+      "name": "Ninja 701",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5550,
+      "viewed": false
+    },
+    {
+      "id": "a314cd6e-6c50-4c79-aa26-806b870c76e2",
+      "name": "Ninja 702",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6509,
+      "viewed": false
+    },
+    {
+      "id": "01c8fabe-9efd-4646-a48f-e4e398bb1c58",
+      "name": "Ninja 703",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6869,
+      "viewed": false
+    },
+    {
+      "id": "20b1e7a6-29af-43cb-8d8e-3cacb128ba03",
+      "name": "Ninja 704",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6017,
+      "viewed": false
+    },
+    {
+      "id": "27ad001c-5b10-4db0-ab10-e9e4f1306a9e",
+      "name": "Ninja 705",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3001,
+      "viewed": false
+    },
+    {
+      "id": "e64122de-b6d2-409a-b288-1f6b802a1eb4",
+      "name": "Ninja 706",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5698,
+      "viewed": false
+    },
+    {
+      "id": "578b396b-d9fc-40fc-9f5a-6109ae78df6a",
+      "name": "Ninja 707",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3719,
+      "viewed": false
+    },
+    {
+      "id": "06064a28-d6fe-41b5-8a1c-09ff1cfbc3df",
+      "name": "Ninja 708",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3573,
+      "viewed": false
+    },
+    {
+      "id": "8c68013a-b4e1-4b00-91fd-4ebc990eedd9",
+      "name": "Ninja 709",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5618,
+      "viewed": false
+    },
+    {
+      "id": "93110f46-c220-4bd0-9d56-56ea5dd2cc59",
+      "name": "Ninja 710",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4028,
+      "viewed": false
+    },
+    {
+      "id": "8340531f-11f8-4029-99e7-11ef6504739a",
+      "name": "Ninja 711",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1168,
+      "viewed": false
+    },
+    {
+      "id": "7ee0308e-bb7d-490a-8474-84b227b1c57e",
+      "name": "Ninja 712",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8934,
+      "viewed": false
+    },
+    {
+      "id": "a7966889-c750-46dc-bd6a-fd4a568c0113",
+      "name": "Ninja 713",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9823,
+      "viewed": false
+    },
+    {
+      "id": "0cca526a-790c-489b-b684-c1e52c958ddd",
+      "name": "Ninja 714",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4213,
+      "viewed": false
+    },
+    {
+      "id": "e41144bf-252e-4e0d-ba63-3b9343804d8a",
+      "name": "Ninja 715",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1770,
+      "viewed": false
+    },
+    {
+      "id": "b77ed91e-cdbb-4790-8acf-39140032a3c7",
+      "name": "Ninja 716",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4688,
+      "viewed": false
+    },
+    {
+      "id": "1c14aea1-c951-4d64-87e8-c1d1bf11f342",
+      "name": "Ninja 717",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9804,
+      "viewed": false
+    },
+    {
+      "id": "4406765a-be40-409e-9d9a-621a563a413f",
+      "name": "Ninja 718",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9397,
+      "viewed": false
+    },
+    {
+      "id": "acc4edac-f893-419a-8122-b379a71e064d",
+      "name": "Ninja 719",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5679,
+      "viewed": false
+    },
+    {
+      "id": "ef801572-3b98-4966-b6c6-c3cb6be0dba9",
+      "name": "Ninja 720",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 158,
+      "viewed": false
+    },
+    {
+      "id": "e2fd98ff-28bb-4e57-89ad-a1862ee30e5a",
+      "name": "Ninja 721",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2977,
+      "viewed": false
+    },
+    {
+      "id": "6b31f4e7-057f-46b3-a243-d3690558d9f3",
+      "name": "Ninja 722",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8754,
+      "viewed": false
+    },
+    {
+      "id": "f7474c7b-492d-4dd4-a194-c334be706f33",
+      "name": "Ninja 723",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4246,
+      "viewed": false
+    },
+    {
+      "id": "881db42e-be7f-4aa9-b675-09ed701fffa1",
+      "name": "Ninja 724",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5291,
+      "viewed": false
+    },
+    {
+      "id": "fb785b08-1430-4f2a-9f66-602d8f723d5f",
+      "name": "Ninja 725",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1637,
+      "viewed": false
+    },
+    {
+      "id": "b7d13857-751e-4bb0-888a-b2ab8c56deaf",
+      "name": "Ninja 726",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2075,
+      "viewed": false
+    },
+    {
+      "id": "4a0e1f3d-c77f-4375-96bc-2e9a2e5ed9bd",
+      "name": "Ninja 727",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6430,
+      "viewed": false
+    },
+    {
+      "id": "b97c561e-4cd0-414b-baca-dbc9d86b6107",
+      "name": "Ninja 728",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5366,
+      "viewed": false
+    },
+    {
+      "id": "5cf50272-6052-4560-9022-e71b2dd864fe",
+      "name": "Ninja 729",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 234,
+      "viewed": false
+    },
+    {
+      "id": "ba9de7c6-a749-40fd-9367-17fab8c86b20",
+      "name": "Ninja 730",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7707,
+      "viewed": false
+    },
+    {
+      "id": "2398fe36-b2cd-4829-add1-3a771e22aa00",
+      "name": "Ninja 731",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2542,
+      "viewed": false
+    },
+    {
+      "id": "38a35815-33cc-406a-8248-4aea7490f90a",
+      "name": "Ninja 732",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7095,
+      "viewed": false
+    },
+    {
+      "id": "3c102b2c-fbb1-4500-bb86-ae5259a1f465",
+      "name": "Ninja 733",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7720,
+      "viewed": false
+    },
+    {
+      "id": "984f6a59-7ed4-4a88-8795-69523ce5c845",
+      "name": "Ninja 734",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5865,
+      "viewed": false
+    },
+    {
+      "id": "f7097d64-8657-4777-9b78-90f396267e65",
+      "name": "Ninja 735",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6630,
+      "viewed": false
+    },
+    {
+      "id": "c197d0e6-8219-4b4f-ab4b-b32b43d60e02",
+      "name": "Ninja 736",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9313,
+      "viewed": false
+    },
+    {
+      "id": "6de7461b-2c51-4398-b70a-dbd18a4c41c0",
+      "name": "Ninja 737",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 167,
+      "viewed": false
+    },
+    {
+      "id": "ef0eeea3-9486-40ce-9d71-a1caabed5b84",
+      "name": "Ninja 738",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7573,
+      "viewed": false
+    },
+    {
+      "id": "82000632-0c83-4ada-9dca-3bbd3ae1b53d",
+      "name": "Ninja 739",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9331,
+      "viewed": false
+    },
+    {
+      "id": "da4035c7-f190-4499-bbe6-71d238cbac8c",
+      "name": "Ninja 740",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5456,
+      "viewed": false
+    },
+    {
+      "id": "c457866b-167b-4ca1-b762-3132c137cc64",
+      "name": "Ninja 741",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3707,
+      "viewed": false
+    },
+    {
+      "id": "2b9f4bfc-5c04-4044-bec2-31a07ecea66b",
+      "name": "Ninja 742",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 887,
+      "viewed": false
+    },
+    {
+      "id": "fe397a69-65fe-4a64-9c0d-46b057bbdc46",
+      "name": "Ninja 743",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5186,
+      "viewed": false
+    },
+    {
+      "id": "b81cc4c7-8f3e-4cea-b6d0-8de9ec7a8dfa",
+      "name": "Ninja 744",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3794,
+      "viewed": false
+    },
+    {
+      "id": "e6b5fa81-e377-44d7-9134-22d9293eaa54",
+      "name": "Ninja 745",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8474,
+      "viewed": false
+    },
+    {
+      "id": "cfc4b7b1-1ecc-4516-b058-172deae6f2f9",
+      "name": "Ninja 746",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3819,
+      "viewed": false
+    },
+    {
+      "id": "cfe5690f-165c-4af5-8ab4-b43880a02e08",
+      "name": "Ninja 747",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7907,
+      "viewed": false
+    },
+    {
+      "id": "0c0ccc3c-5201-4573-8455-93c7db2d2271",
+      "name": "Ninja 748",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6523,
+      "viewed": false
+    },
+    {
+      "id": "a29a0e03-ccdf-49a6-95a0-39678c077d4d",
+      "name": "Ninja 749",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 590,
+      "viewed": false
+    },
+    {
+      "id": "1b075efc-f98c-4783-aa13-1e27425ef3ce",
+      "name": "Ninja 750",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9554,
+      "viewed": false
+    },
+    {
+      "id": "e7d4b93b-c4d9-472a-8292-22466ad3d9d3",
+      "name": "Ninja 751",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5241,
+      "viewed": false
+    },
+    {
+      "id": "0e2c2507-b482-412a-a8b7-3fc3d5b93aca",
+      "name": "Ninja 752",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7534,
+      "viewed": false
+    },
+    {
+      "id": "9e8117d5-ebfd-4578-8c3e-d49ff2f44b79",
+      "name": "Ninja 753",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6716,
+      "viewed": false
+    },
+    {
+      "id": "15bf3e20-5780-4d90-97d3-c7c9f7e2b95f",
+      "name": "Ninja 754",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 854,
+      "viewed": false
+    },
+    {
+      "id": "563c4856-58e5-422c-a04e-7e6a2c047453",
+      "name": "Ninja 755",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8216,
+      "viewed": false
+    },
+    {
+      "id": "be7842a3-b1e9-4de3-a69b-d9febf6f04d2",
+      "name": "Ninja 756",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7078,
+      "viewed": false
+    },
+    {
+      "id": "14fda172-a7dd-40bd-88fb-342de88d575c",
+      "name": "Ninja 757",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7231,
+      "viewed": false
+    },
+    {
+      "id": "027dfb0e-f89c-467c-88eb-e297df3a13a4",
+      "name": "Ninja 758",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5171,
+      "viewed": false
+    },
+    {
+      "id": "d35ce667-4a25-4989-8fb2-60492d5eb047",
+      "name": "Ninja 759",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3226,
+      "viewed": false
+    },
+    {
+      "id": "edd9bdad-339b-4f20-a595-db46b9f7b3fd",
+      "name": "Ninja 760",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1229,
+      "viewed": false
+    },
+    {
+      "id": "9315a0e9-2b2b-4f6d-abbc-e97a323ecbd4",
+      "name": "Ninja 761",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6254,
+      "viewed": false
+    },
+    {
+      "id": "acaead4b-4caa-40b9-8d86-f9fc4ca3f692",
+      "name": "Ninja 762",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5290,
+      "viewed": false
+    },
+    {
+      "id": "c4fc3a67-d5e8-44e9-8ae5-0f37be4a648e",
+      "name": "Ninja 763",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5745,
+      "viewed": false
+    },
+    {
+      "id": "37c297c1-7521-4d9a-bb4e-6f7894629b1b",
+      "name": "Ninja 764",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8572,
+      "viewed": false
+    },
+    {
+      "id": "33300847-f65a-471e-a0d6-ac31d02cf93c",
+      "name": "Ninja 765",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2621,
+      "viewed": false
+    },
+    {
+      "id": "e815b11e-760a-4c23-a248-d623392ce45d",
+      "name": "Ninja 766",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7420,
+      "viewed": false
+    },
+    {
+      "id": "04e8b318-a315-4779-99df-21bf5e134917",
+      "name": "Ninja 767",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2439,
+      "viewed": false
+    },
+    {
+      "id": "e6859482-cbeb-4141-b26b-2f0be29b6ca3",
+      "name": "Ninja 768",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7969,
+      "viewed": false
+    },
+    {
+      "id": "f76de82c-ad96-4e2a-92a8-d166a8dc1c4e",
+      "name": "Ninja 769",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5152,
+      "viewed": false
+    },
+    {
+      "id": "00ccae9a-e58c-4bef-bfc4-ef7bfa1e078b",
+      "name": "Ninja 770",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8989,
+      "viewed": false
+    },
+    {
+      "id": "800f25bb-6b64-4a9e-9847-8e0959f44952",
+      "name": "Ninja 771",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2413,
+      "viewed": false
+    },
+    {
+      "id": "19bf7077-3689-4364-8224-bb6661203cf7",
+      "name": "Ninja 772",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5665,
+      "viewed": false
+    },
+    {
+      "id": "94724f23-639f-49a1-a890-61bed749b04f",
+      "name": "Ninja 773",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3328,
+      "viewed": false
+    },
+    {
+      "id": "7114a150-50a3-41dc-95d4-d3532bfd31c1",
+      "name": "Ninja 774",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9469,
+      "viewed": false
+    },
+    {
+      "id": "22080e80-8add-4ed0-94f5-64f34c941429",
+      "name": "Ninja 775",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5058,
+      "viewed": false
+    },
+    {
+      "id": "f2f082e2-e9f0-4a0e-99ab-25b69c8032d0",
+      "name": "Ninja 776",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1174,
+      "viewed": false
+    },
+    {
+      "id": "275ae139-b082-4696-b4a5-fd3268a6e87b",
+      "name": "Ninja 777",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9166,
+      "viewed": false
+    },
+    {
+      "id": "02867b09-9678-4f71-a557-2d98f1f90f7a",
+      "name": "Ninja 778",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3672,
+      "viewed": false
+    },
+    {
+      "id": "2f608229-1ac9-47bb-91b4-5a45a64fbf4b",
+      "name": "Ninja 779",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2551,
+      "viewed": false
+    },
+    {
+      "id": "b798cad1-03e4-4cdc-9a65-282b830aa6ea",
+      "name": "Ninja 780",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1249,
+      "viewed": false
+    },
+    {
+      "id": "3c08d0a7-da26-4b15-af5e-f0ebb5f34468",
+      "name": "Ninja 781",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2675,
+      "viewed": false
+    },
+    {
+      "id": "1006c495-a56a-45b0-97b4-9d24657cc601",
+      "name": "Ninja 782",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6743,
+      "viewed": false
+    },
+    {
+      "id": "0dbf9ddc-2bfb-4542-a385-9669b44326ee",
+      "name": "Ninja 783",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4569,
+      "viewed": false
+    },
+    {
+      "id": "39e2f15d-0450-4d23-9a0c-0f02643c7a95",
+      "name": "Ninja 784",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2360,
+      "viewed": false
+    },
+    {
+      "id": "eb0e79f2-c9d1-479e-aa4f-dadd4283ffb9",
+      "name": "Ninja 785",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1837,
+      "viewed": false
+    },
+    {
+      "id": "9de0c725-188c-456a-b6b2-bb0882a67b17",
+      "name": "Ninja 786",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9027,
+      "viewed": false
+    },
+    {
+      "id": "fd31e16f-1b00-4d67-b8bf-952777b6c219",
+      "name": "Ninja 787",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 223,
+      "viewed": false
+    },
+    {
+      "id": "939b7cca-32c8-4054-ac33-9fa30aa37cad",
+      "name": "Ninja 788",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8448,
+      "viewed": false
+    },
+    {
+      "id": "2c9c744e-11c0-4c01-962d-fc987aef2350",
+      "name": "Ninja 789",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 417,
+      "viewed": false
+    },
+    {
+      "id": "e5c59799-2350-4e3f-8d01-9e70d569a4d1",
+      "name": "Ninja 790",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6221,
+      "viewed": false
+    },
+    {
+      "id": "6ab49f53-8b08-4ca5-827f-392a94fa4df9",
+      "name": "Ninja 791",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2648,
+      "viewed": false
+    },
+    {
+      "id": "18891a82-ecd0-4225-ad99-95ad7d507e0b",
+      "name": "Ninja 792",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7765,
+      "viewed": false
+    },
+    {
+      "id": "ce14a7a3-4624-4811-849a-b7f695bacf1f",
+      "name": "Ninja 793",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 341,
+      "viewed": false
+    },
+    {
+      "id": "a6df4123-0fd9-40d0-ba6f-43418b38cd6a",
+      "name": "Ninja 794",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9670,
+      "viewed": false
+    },
+    {
+      "id": "81214833-8553-4ade-88e3-37aa15ba7a2b",
+      "name": "Ninja 795",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1984,
+      "viewed": false
+    },
+    {
+      "id": "95a67a00-e47c-4794-8c39-45a167dabadb",
+      "name": "Ninja 796",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2219,
+      "viewed": false
+    },
+    {
+      "id": "7f988d68-e90f-4b6b-b155-c6d0feae61d6",
+      "name": "Ninja 797",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2526,
+      "viewed": false
+    },
+    {
+      "id": "a73968a7-858f-4b69-a11d-0d9bdd7d53d6",
+      "name": "Ninja 798",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6507,
+      "viewed": false
+    },
+    {
+      "id": "72854978-b89b-4c99-998b-4220153111bf",
+      "name": "Ninja 799",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3239,
+      "viewed": false
+    },
+    {
+      "id": "df664332-46e6-4801-bbf6-6511e8791de8",
+      "name": "Ninja 800",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1242,
+      "viewed": false
+    },
+    {
+      "id": "cfaa85ef-ca89-49bd-a3df-7555d64d19a9",
+      "name": "Ninja 801",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7094,
+      "viewed": false
+    },
+    {
+      "id": "46201bd2-b225-4924-a7c0-fa9770d42a4d",
+      "name": "Ninja 802",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9782,
+      "viewed": false
+    },
+    {
+      "id": "8c4c2895-14da-4f6a-bec9-742fcafd624e",
+      "name": "Ninja 803",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1114,
+      "viewed": false
+    },
+    {
+      "id": "05b0041f-9761-4dca-8426-85b46768e6c6",
+      "name": "Ninja 804",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5028,
+      "viewed": false
+    },
+    {
+      "id": "b7e8a3d8-ad82-41f3-9b62-6e5ba183fb60",
+      "name": "Ninja 805",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6023,
+      "viewed": false
+    },
+    {
+      "id": "76c8606f-02d6-4fb9-8db8-d03814a3fb95",
+      "name": "Ninja 806",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3858,
+      "viewed": false
+    },
+    {
+      "id": "786ef8e3-31a4-4254-b32e-d3a8021e1d15",
+      "name": "Ninja 807",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7050,
+      "viewed": false
+    },
+    {
+      "id": "0fa0645b-714e-4585-88b6-2d5f9fb71789",
+      "name": "Ninja 808",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6546,
+      "viewed": false
+    },
+    {
+      "id": "0b1d19b3-d721-4a76-b99e-551c7172ce97",
+      "name": "Ninja 809",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1224,
+      "viewed": false
+    },
+    {
+      "id": "ddbff8fa-1139-435c-9424-bd843a928cc0",
+      "name": "Ninja 810",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6825,
+      "viewed": false
+    },
+    {
+      "id": "4768ec10-9d85-4ea1-a691-eea2172071ee",
+      "name": "Ninja 811",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9160,
+      "viewed": false
+    },
+    {
+      "id": "1b08df43-531b-4a81-9b08-27b5a346a0ab",
+      "name": "Ninja 812",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5620,
+      "viewed": false
+    },
+    {
+      "id": "26600f4c-648c-4e60-9402-648819ea00bd",
+      "name": "Ninja 813",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1501,
+      "viewed": false
+    },
+    {
+      "id": "92209d08-8c4c-44b0-aa40-839c90762922",
+      "name": "Ninja 814",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3207,
+      "viewed": false
+    },
+    {
+      "id": "439def14-b5ab-4d6b-9f8c-9e58bf7d532c",
+      "name": "Ninja 815",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5064,
+      "viewed": false
+    },
+    {
+      "id": "7ac64bb1-2c1c-4194-8a51-fc8d36b2ae04",
+      "name": "Ninja 816",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6204,
+      "viewed": false
+    },
+    {
+      "id": "06fb731a-242a-4682-a29c-514ac8c69445",
+      "name": "Ninja 817",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9056,
+      "viewed": false
+    },
+    {
+      "id": "e87aa1f5-31b2-4b94-b915-f67e1e0f8bb8",
+      "name": "Ninja 818",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2190,
+      "viewed": false
+    },
+    {
+      "id": "667686b9-902b-4535-868f-02499cdb4cf2",
+      "name": "Ninja 819",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2494,
+      "viewed": false
+    },
+    {
+      "id": "7ab8970c-a9aa-4891-9dd4-c14aed6d4d5f",
+      "name": "Ninja 820",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3453,
+      "viewed": false
+    },
+    {
+      "id": "dd1d8bae-00f8-49ba-8d18-de78eb1e795b",
+      "name": "Ninja 821",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5881,
+      "viewed": false
+    },
+    {
+      "id": "40560376-0a1d-4648-91ba-4ca76935a2fb",
+      "name": "Ninja 822",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3599,
+      "viewed": false
+    },
+    {
+      "id": "298dd7e4-326f-4e45-a3b1-b8358609069b",
+      "name": "Ninja 823",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5044,
+      "viewed": false
+    },
+    {
+      "id": "6efff2e5-e491-45da-b340-414c75d0ce94",
+      "name": "Ninja 824",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3639,
+      "viewed": false
+    },
+    {
+      "id": "5ea23c13-26ae-473c-9986-a6f8933dca3b",
+      "name": "Ninja 825",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6899,
+      "viewed": false
+    },
+    {
+      "id": "412cefe9-3908-4677-aeda-676d20e294aa",
+      "name": "Ninja 826",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 969,
+      "viewed": false
+    },
+    {
+      "id": "f0142246-eb1e-4182-9429-f0677a362778",
+      "name": "Ninja 827",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1050,
+      "viewed": false
+    },
+    {
+      "id": "63fe6652-cbac-463e-8a47-7675309299b7",
+      "name": "Ninja 828",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1540,
+      "viewed": false
+    },
+    {
+      "id": "2be299b2-538e-422d-9e9d-64cb9a006c2e",
+      "name": "Ninja 829",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2730,
+      "viewed": false
+    },
+    {
+      "id": "eb210eb4-080f-46b1-b1e2-7477bd212ac9",
+      "name": "Ninja 830",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 154,
+      "viewed": false
+    },
+    {
+      "id": "e74f750c-5cb6-4d9e-b137-3f113c4b38d2",
+      "name": "Ninja 831",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5219,
+      "viewed": false
+    },
+    {
+      "id": "4f867ce0-0b03-49c9-b87d-0bad35f96b49",
+      "name": "Ninja 832",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2980,
+      "viewed": false
+    },
+    {
+      "id": "524129a5-3f02-4ba0-a817-412da792e4c7",
+      "name": "Ninja 833",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7979,
+      "viewed": false
+    },
+    {
+      "id": "eb877f3d-0bed-4835-9434-d81e2b3d325c",
+      "name": "Ninja 834",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5882,
+      "viewed": false
+    },
+    {
+      "id": "020c20dd-9768-452b-bc88-87915c44373f",
+      "name": "Ninja 835",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5234,
+      "viewed": false
+    },
+    {
+      "id": "ec9f1aca-413c-447c-a105-1653c7ef2976",
+      "name": "Ninja 836",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7424,
+      "viewed": false
+    },
+    {
+      "id": "a01236ca-59d9-4000-8031-97ee667f2d85",
+      "name": "Ninja 837",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2180,
+      "viewed": false
+    },
+    {
+      "id": "c97ea4f4-dfb6-425f-a83a-d9bfed907459",
+      "name": "Ninja 838",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7342,
+      "viewed": false
+    },
+    {
+      "id": "0b572ec7-c6e4-433a-a768-9c641eae9bc9",
+      "name": "Ninja 839",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8522,
+      "viewed": false
+    },
+    {
+      "id": "efdecee3-be96-408e-bc28-79b034f8c2d8",
+      "name": "Ninja 840",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 349,
+      "viewed": false
+    },
+    {
+      "id": "b3b9298f-580a-40a1-9d82-9ebc7380a3bd",
+      "name": "Ninja 841",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2263,
+      "viewed": false
+    },
+    {
+      "id": "ef93af7f-f62d-4210-b39e-43247e274156",
+      "name": "Ninja 842",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9175,
+      "viewed": false
+    },
+    {
+      "id": "f7c5178e-2c33-4ce4-9b61-3dd37725283d",
+      "name": "Ninja 843",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 339,
+      "viewed": false
+    },
+    {
+      "id": "36eb9dec-0119-42ba-a40d-34a55b41bc03",
+      "name": "Ninja 844",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6229,
+      "viewed": false
+    },
+    {
+      "id": "d149cb19-9c0b-4b6a-a549-b3fb3b984869",
+      "name": "Ninja 845",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3724,
+      "viewed": false
+    },
+    {
+      "id": "5c766c48-5d14-440f-b11c-a8a398da5d77",
+      "name": "Ninja 846",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8651,
+      "viewed": false
+    },
+    {
+      "id": "b265c96d-5b4d-4635-b5de-318972d76806",
+      "name": "Ninja 847",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6181,
+      "viewed": false
+    },
+    {
+      "id": "533254d0-ad98-4c53-ab5b-e1313db47a68",
+      "name": "Ninja 848",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2909,
+      "viewed": false
+    },
+    {
+      "id": "ef15690b-678c-4d63-8624-7ec91d5db9b2",
+      "name": "Ninja 849",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1869,
+      "viewed": false
+    },
+    {
+      "id": "324b46b7-0b5c-45aa-b9f0-1bf588d1a0a7",
+      "name": "Ninja 850",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6359,
+      "viewed": false
+    },
+    {
+      "id": "86c22fca-1b9c-441b-9367-b4ca3fe57dc8",
+      "name": "Ninja 851",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1344,
+      "viewed": false
+    },
+    {
+      "id": "020d1bbd-e41f-4ded-a294-63e11de6ea58",
+      "name": "Ninja 852",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 923,
+      "viewed": false
+    },
+    {
+      "id": "ecf76779-d327-45ef-9779-5f3f4fc22c88",
+      "name": "Ninja 853",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5464,
+      "viewed": false
+    },
+    {
+      "id": "fc43090b-feed-439e-ac15-4f7ec485a14e",
+      "name": "Ninja 854",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4797,
+      "viewed": false
+    },
+    {
+      "id": "718315a4-112f-4470-8d3b-4b0792af0e26",
+      "name": "Ninja 855",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2660,
+      "viewed": false
+    },
+    {
+      "id": "b7bb5f43-c808-4403-91c4-acdbd8d0dea7",
+      "name": "Ninja 856",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9025,
+      "viewed": false
+    },
+    {
+      "id": "a92a1be8-7d9a-4fb8-a183-17545373be79",
+      "name": "Ninja 857",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 148,
+      "viewed": false
+    },
+    {
+      "id": "a40b6643-2fab-469f-bb53-c1a13da98ae6",
+      "name": "Ninja 858",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8816,
+      "viewed": false
+    },
+    {
+      "id": "d7392551-d287-46f3-bcfe-e1def8a2d661",
+      "name": "Ninja 859",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8552,
+      "viewed": false
+    },
+    {
+      "id": "04ae0ea3-a604-4687-8d45-480259f0918d",
+      "name": "Ninja 860",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7570,
+      "viewed": false
+    },
+    {
+      "id": "61f57023-25da-4bd4-975f-f95cfe0cd290",
+      "name": "Ninja 861",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2064,
+      "viewed": false
+    },
+    {
+      "id": "7ead9c2d-2762-4794-a868-2e23eec18ee1",
+      "name": "Ninja 862",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5565,
+      "viewed": false
+    },
+    {
+      "id": "84b6386f-78cc-476b-a958-cfe894875169",
+      "name": "Ninja 863",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3222,
+      "viewed": false
+    },
+    {
+      "id": "0bd90f73-9115-439a-84ef-a644fac97ab7",
+      "name": "Ninja 864",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2134,
+      "viewed": false
+    },
+    {
+      "id": "02d8cbfd-c0a9-48fe-8f89-bfa7b09a2ca5",
+      "name": "Ninja 865",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7217,
+      "viewed": false
+    },
+    {
+      "id": "eca117a3-b435-4cfb-9083-aa329fdad3b8",
+      "name": "Ninja 866",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3258,
+      "viewed": false
+    },
+    {
+      "id": "198d0b73-6e85-4d56-96df-66a56c8c74b9",
+      "name": "Ninja 867",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3587,
+      "viewed": false
+    },
+    {
+      "id": "c27a0720-2f05-4162-90b3-cc8744f8b3ff",
+      "name": "Ninja 868",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5459,
+      "viewed": false
+    },
+    {
+      "id": "aabb1186-f3a9-42bd-8c9f-fe552dc031e2",
+      "name": "Ninja 869",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7321,
+      "viewed": false
+    },
+    {
+      "id": "fb0d55c2-48f0-4637-802e-c642a9490405",
+      "name": "Ninja 870",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1895,
+      "viewed": false
+    },
+    {
+      "id": "38147210-ce40-478c-84e9-b4c66fed06fe",
+      "name": "Ninja 871",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7063,
+      "viewed": false
+    },
+    {
+      "id": "db7360f6-1807-4dc4-8986-71d2bdde497a",
+      "name": "Ninja 872",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4112,
+      "viewed": false
+    },
+    {
+      "id": "1f1511c4-478b-487f-9c96-3a042f0a06f0",
+      "name": "Ninja 873",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9761,
+      "viewed": false
+    },
+    {
+      "id": "220c8864-6b09-4ba9-a146-ddd24da2f69c",
+      "name": "Ninja 874",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5337,
+      "viewed": false
+    },
+    {
+      "id": "d6a6c9c4-d22b-45cf-b1a6-ad0b18d12f85",
+      "name": "Ninja 875",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6287,
+      "viewed": false
+    },
+    {
+      "id": "e905c487-a9f0-49f5-9c4d-cdfa6062ea49",
+      "name": "Ninja 876",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6384,
+      "viewed": false
+    },
+    {
+      "id": "dd4f7ef1-4591-4c3a-97ea-7744f1300686",
+      "name": "Ninja 877",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7371,
+      "viewed": false
+    },
+    {
+      "id": "beaf5f72-5c08-432c-9b99-23c2eee0dcdb",
+      "name": "Ninja 878",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6760,
+      "viewed": false
+    },
+    {
+      "id": "09739119-f0a9-487f-b075-a15736343c78",
+      "name": "Ninja 879",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7398,
+      "viewed": false
+    },
+    {
+      "id": "78e34833-7c5c-49f9-a2cc-35c04b33c687",
+      "name": "Ninja 880",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5717,
+      "viewed": false
+    },
+    {
+      "id": "6021b7c1-e76d-4845-83da-8a3db101481f",
+      "name": "Ninja 881",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6506,
+      "viewed": false
+    },
+    {
+      "id": "8779fd1a-99d7-4f55-bbd0-08a91b04d5ef",
+      "name": "Ninja 882",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 461,
+      "viewed": false
+    },
+    {
+      "id": "84fe3890-5a4e-4a8c-95b7-9d66570db10d",
+      "name": "Ninja 883",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9172,
+      "viewed": false
+    },
+    {
+      "id": "65332f2f-b4d0-4c11-a6d0-761488dfeffd",
+      "name": "Ninja 884",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1002,
+      "viewed": false
+    },
+    {
+      "id": "0035af50-14f2-49d6-94ae-0d3098ba70c1",
+      "name": "Ninja 885",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8024,
+      "viewed": false
+    },
+    {
+      "id": "464e0f9c-d00d-4f35-bc84-97d336fed11f",
+      "name": "Ninja 886",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4850,
+      "viewed": false
+    },
+    {
+      "id": "019bf95b-ddb6-42b4-8fee-795e02d035c8",
+      "name": "Ninja 887",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 420,
+      "viewed": false
+    },
+    {
+      "id": "b155c0ec-3f2c-4893-ae9c-f74773178106",
+      "name": "Ninja 888",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8483,
+      "viewed": false
+    },
+    {
+      "id": "97e28700-b5b1-433e-9bdb-2285b3dce48d",
+      "name": "Ninja 889",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5899,
+      "viewed": false
+    },
+    {
+      "id": "67a8f687-e149-4548-a7b3-cb199c0841cc",
+      "name": "Ninja 890",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6202,
+      "viewed": false
+    },
+    {
+      "id": "d867d985-d299-4596-b9ce-18377633545f",
+      "name": "Ninja 891",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5369,
+      "viewed": false
+    },
+    {
+      "id": "10b33702-dbd1-4a6c-9393-b36c71c66e36",
+      "name": "Ninja 892",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7105,
+      "viewed": false
+    },
+    {
+      "id": "b58fafab-b54d-4c4b-9ac8-0f93ecbff3ca",
+      "name": "Ninja 893",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8418,
+      "viewed": false
+    },
+    {
+      "id": "aef98013-7c99-495c-9054-b403a8feead3",
+      "name": "Ninja 894",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3751,
+      "viewed": false
+    },
+    {
+      "id": "3a79c64e-0828-4080-83c8-7bc942db9586",
+      "name": "Ninja 895",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5150,
+      "viewed": false
+    },
+    {
+      "id": "e100be55-dff6-4922-b18b-7ef1ef2b1c31",
+      "name": "Ninja 896",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4799,
+      "viewed": false
+    },
+    {
+      "id": "a122c194-86dc-408e-984e-e4f9ff6badbd",
+      "name": "Ninja 897",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2411,
+      "viewed": false
+    },
+    {
+      "id": "a0fae638-7b50-4ca2-b85f-4a499bd55f55",
+      "name": "Ninja 898",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6635,
+      "viewed": false
+    },
+    {
+      "id": "d88a3c16-2c6e-4767-ada4-7f70e4c8be3d",
+      "name": "Ninja 899",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1886,
+      "viewed": false
+    },
+    {
+      "id": "8a1249b4-6e84-4a88-a980-dfeb142a20f0",
+      "name": "Ninja 900",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4387,
+      "viewed": false
+    },
+    {
+      "id": "225811ed-511a-446e-ac3a-bc85a6457648",
+      "name": "Ninja 901",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2359,
+      "viewed": false
+    },
+    {
+      "id": "66e3ef63-495d-413f-8a27-960f078781cd",
+      "name": "Ninja 902",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6150,
+      "viewed": false
+    },
+    {
+      "id": "86cf31a6-ef2a-4cb1-bea9-e21f957748b3",
+      "name": "Ninja 903",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6100,
+      "viewed": false
+    },
+    {
+      "id": "89195169-21cd-4402-8c5f-0ac6ac05a24e",
+      "name": "Ninja 904",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 884,
+      "viewed": false
+    },
+    {
+      "id": "1fbf83fb-afb8-4e8c-b1a3-ea32bab78103",
+      "name": "Ninja 905",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2677,
+      "viewed": false
+    },
+    {
+      "id": "61efa3e5-7650-45d9-ae3c-3f1e88577528",
+      "name": "Ninja 906",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 248,
+      "viewed": false
+    },
+    {
+      "id": "dfe67bac-2cce-40a8-a5ec-6bb938ed76a3",
+      "name": "Ninja 907",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 311,
+      "viewed": false
+    },
+    {
+      "id": "40db0543-2c3f-4004-b85f-d857d717c9c2",
+      "name": "Ninja 908",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3601,
+      "viewed": false
+    },
+    {
+      "id": "690295f0-62c1-43a7-b8c2-b1af4b07069f",
+      "name": "Ninja 909",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6495,
+      "viewed": false
+    },
+    {
+      "id": "7e8e756f-8f22-4fb5-90b6-117549b7b61f",
+      "name": "Ninja 910",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5224,
+      "viewed": false
+    },
+    {
+      "id": "83255f30-3ef6-4367-8dee-3d1289fa28ec",
+      "name": "Ninja 911",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9868,
+      "viewed": false
+    },
+    {
+      "id": "8fb3e7c2-0ad3-4b34-b033-f0db562f858b",
+      "name": "Ninja 912",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4114,
+      "viewed": false
+    },
+    {
+      "id": "2706618b-5ba6-4822-b306-877ce8bd79ba",
+      "name": "Ninja 913",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2486,
+      "viewed": false
+    },
+    {
+      "id": "41333523-56cd-4d67-bca2-49e4b430c265",
+      "name": "Ninja 914",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3871,
+      "viewed": false
+    },
+    {
+      "id": "e5a11e2f-8902-4c8c-8f76-bf41def2c848",
+      "name": "Ninja 915",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4307,
+      "viewed": false
+    },
+    {
+      "id": "8a955c01-b27b-4e37-8527-916f66352952",
+      "name": "Ninja 916",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3688,
+      "viewed": false
+    },
+    {
+      "id": "3f200e86-ec66-467f-8845-e3f6d0e35d73",
+      "name": "Ninja 917",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7042,
+      "viewed": false
+    },
+    {
+      "id": "29c21117-1db0-430a-9c01-180d0579a4a4",
+      "name": "Ninja 918",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1222,
+      "viewed": false
+    },
+    {
+      "id": "68230849-14af-4d1c-98da-0de0c2587dd2",
+      "name": "Ninja 919",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5876,
+      "viewed": false
+    },
+    {
+      "id": "715eff5c-488c-4d9d-b299-645fb0c930cf",
+      "name": "Ninja 920",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5190,
+      "viewed": false
+    },
+    {
+      "id": "b5b70055-8a29-4f03-b402-6d0bc7c39561",
+      "name": "Ninja 921",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8185,
+      "viewed": false
+    },
+    {
+      "id": "8b3d78e2-8fd0-4375-8fb9-8194c4454d54",
+      "name": "Ninja 922",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 413,
+      "viewed": false
+    },
+    {
+      "id": "8248e782-6102-4acb-80c7-74cc987643df",
+      "name": "Ninja 923",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8041,
+      "viewed": false
+    },
+    {
+      "id": "a000f982-dcd9-47c6-809f-53217620c9d5",
+      "name": "Ninja 924",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9876,
+      "viewed": false
+    },
+    {
+      "id": "a54650cc-85c6-42f9-ba7c-38016416441b",
+      "name": "Ninja 925",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2633,
+      "viewed": false
+    },
+    {
+      "id": "57bde2ab-362d-4feb-9d67-5a0d1f9db58c",
+      "name": "Ninja 926",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1326,
+      "viewed": false
+    },
+    {
+      "id": "5501f4d5-cec9-43cc-8e2a-b57e6ea72111",
+      "name": "Ninja 927",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3485,
+      "viewed": false
+    },
+    {
+      "id": "b6110335-5dde-4aa4-a03d-85de6eb86a24",
+      "name": "Ninja 928",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8673,
+      "viewed": false
+    },
+    {
+      "id": "f2d2312e-8aed-4a75-a58d-4620d976e547",
+      "name": "Ninja 929",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1428,
+      "viewed": false
+    },
+    {
+      "id": "9b1c8da6-dde9-45ab-bf73-a795b0dd8164",
+      "name": "Ninja 930",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6241,
+      "viewed": false
+    },
+    {
+      "id": "d49e401f-48e1-400e-9185-821c8323e748",
+      "name": "Ninja 931",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7030,
+      "viewed": false
+    },
+    {
+      "id": "ffd44bf4-3476-403a-b5f7-af1bc836110f",
+      "name": "Ninja 932",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4414,
+      "viewed": false
+    },
+    {
+      "id": "b858fc43-83f7-42cd-b080-30adaf01a6f7",
+      "name": "Ninja 933",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 712,
+      "viewed": false
+    },
+    {
+      "id": "46b60d2e-fbbb-4b27-9e2a-d82456d239d6",
+      "name": "Ninja 934",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1807,
+      "viewed": false
+    },
+    {
+      "id": "3b402a02-eb29-45b9-be21-52c7e0a6afcf",
+      "name": "Ninja 935",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 247,
+      "viewed": false
+    },
+    {
+      "id": "1f4ef755-1b22-431c-acb3-474029066eca",
+      "name": "Ninja 936",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4853,
+      "viewed": false
+    },
+    {
+      "id": "8512ed9d-643d-4778-a61c-7665fc46520e",
+      "name": "Ninja 937",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3830,
+      "viewed": false
+    },
+    {
+      "id": "ab27e5bc-7d7f-4719-b060-4417d7b282af",
+      "name": "Ninja 938",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2114,
+      "viewed": false
+    },
+    {
+      "id": "66100fdf-ae54-4854-b437-7008951db78a",
+      "name": "Ninja 939",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5541,
+      "viewed": false
+    },
+    {
+      "id": "72f45825-135d-46bc-96fe-ca5d3f62a4c5",
+      "name": "Ninja 940",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6831,
+      "viewed": false
+    },
+    {
+      "id": "6a74edc5-4137-4ddd-996e-59a5117594d1",
+      "name": "Ninja 941",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3000,
+      "viewed": false
+    },
+    {
+      "id": "c35a8d9a-86c1-4c6d-b381-7f02f194b6e7",
+      "name": "Ninja 942",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8950,
+      "viewed": false
+    },
+    {
+      "id": "77d777e9-46cb-4470-843d-574b1a244b8f",
+      "name": "Ninja 943",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6455,
+      "viewed": false
+    },
+    {
+      "id": "4ef03f04-6377-4f2a-8169-4e6335df6684",
+      "name": "Ninja 944",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9795,
+      "viewed": false
+    },
+    {
+      "id": "7c632ea2-fc34-473b-b2ab-507f43afeb68",
+      "name": "Ninja 945",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 108,
+      "viewed": false
+    },
+    {
+      "id": "ee056b33-e7d9-4ff1-960b-e9da63cf2f87",
+      "name": "Ninja 946",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9447,
+      "viewed": false
+    },
+    {
+      "id": "53eea0d6-47ca-4414-8e74-1f5364827fc3",
+      "name": "Ninja 947",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5782,
+      "viewed": false
+    },
+    {
+      "id": "160c7c48-46fe-4bcd-9f76-58e547268b9f",
+      "name": "Ninja 948",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7703,
+      "viewed": false
+    },
+    {
+      "id": "a7ca8aed-1cb6-4707-880a-a3ba087b376e",
+      "name": "Ninja 949",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5033,
+      "viewed": false
+    },
+    {
+      "id": "a3aaf595-0217-4c68-89b3-3e933f664773",
+      "name": "Ninja 950",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5320,
+      "viewed": false
+    },
+    {
+      "id": "7547068c-817a-480d-8aa9-0ac68f825b2e",
+      "name": "Ninja 951",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6698,
+      "viewed": false
+    },
+    {
+      "id": "812729f9-04d8-4920-9983-67c21b3815ac",
+      "name": "Ninja 952",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 262,
+      "viewed": false
+    },
+    {
+      "id": "820bf6e7-70ee-41f8-8e58-90c97ef12e78",
+      "name": "Ninja 953",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 326,
+      "viewed": false
+    },
+    {
+      "id": "39dd2c78-1665-4a31-a3bc-52fc62614511",
+      "name": "Ninja 954",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3746,
+      "viewed": false
+    },
+    {
+      "id": "a741a99c-0132-429b-a038-d00f1141b4d3",
+      "name": "Ninja 955",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 312,
+      "viewed": false
+    },
+    {
+      "id": "3afaad7b-999f-4380-8aed-806e6dc81a6b",
+      "name": "Ninja 956",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3993,
+      "viewed": false
+    },
+    {
+      "id": "419049c5-3f1e-468d-bd29-d03c367bcbf3",
+      "name": "Ninja 957",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8619,
+      "viewed": false
+    },
+    {
+      "id": "909bf548-8433-44a6-8f0c-65d7dd8ebdf6",
+      "name": "Ninja 958",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6231,
+      "viewed": false
+    },
+    {
+      "id": "ac937d2a-67a1-41e5-91da-39963e285a0e",
+      "name": "Ninja 959",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2933,
+      "viewed": false
+    },
+    {
+      "id": "7e9871ed-5245-4adf-acb8-7917012ac0b4",
+      "name": "Ninja 960",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1254,
+      "viewed": false
+    },
+    {
+      "id": "a6e23d35-f7b4-48e6-9e12-d6457cb0550c",
+      "name": "Ninja 961",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4280,
+      "viewed": false
+    },
+    {
+      "id": "7228dcf9-d526-42f6-b841-10fea33891ac",
+      "name": "Ninja 962",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6919,
+      "viewed": false
+    },
+    {
+      "id": "8476a0ed-5866-49cb-9e92-ee0ffd5b73ef",
+      "name": "Ninja 963",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9863,
+      "viewed": false
+    },
+    {
+      "id": "dfb537ce-840d-4b6e-9665-61f4dd248bbd",
+      "name": "Ninja 964",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2519,
+      "viewed": false
+    },
+    {
+      "id": "cbfc1cd6-fcc2-48a4-9596-fe30d9d90457",
+      "name": "Ninja 965",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6336,
+      "viewed": false
+    },
+    {
+      "id": "c21bb0d0-2c65-4284-8ffd-6428d85b5a35",
+      "name": "Ninja 966",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 134,
+      "viewed": false
+    },
+    {
+      "id": "cf178aa5-ca99-48ac-b785-5300c6a9b087",
+      "name": "Ninja 967",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4594,
+      "viewed": false
+    },
+    {
+      "id": "7c00d09a-fee8-4da6-a3b3-50d2d6167255",
+      "name": "Ninja 968",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2551,
+      "viewed": false
+    },
+    {
+      "id": "4c8db9fd-0b56-41c8-9606-d42855b1dfef",
+      "name": "Ninja 969",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5773,
+      "viewed": false
+    },
+    {
+      "id": "4490890e-df74-413c-b632-de2d1c9b6b41",
+      "name": "Ninja 970",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3868,
+      "viewed": false
+    },
+    {
+      "id": "970b5952-8886-4671-a800-eaaf92f67552",
+      "name": "Ninja 971",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4960,
+      "viewed": false
+    },
+    {
+      "id": "40a1ce17-b526-4a6c-b3e0-820b8a0de347",
+      "name": "Ninja 972",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 838,
+      "viewed": false
+    },
+    {
+      "id": "8a4c4f0a-a890-4b2e-9546-513fba332337",
+      "name": "Ninja 973",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7554,
+      "viewed": false
+    },
+    {
+      "id": "d97a3413-077c-4a1e-aeb9-f2c16c68cc06",
+      "name": "Ninja 974",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7124,
+      "viewed": false
+    },
+    {
+      "id": "ebdeb245-75a3-448c-9347-351d15dcd4be",
+      "name": "Ninja 975",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9746,
+      "viewed": false
+    },
+    {
+      "id": "1300e9dd-be8a-406a-a87a-3a6c938b8f46",
+      "name": "Ninja 976",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1382,
+      "viewed": false
+    },
+    {
+      "id": "d15e31c1-b854-41e2-b6b0-fb635d345f03",
+      "name": "Ninja 977",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9367,
+      "viewed": false
+    },
+    {
+      "id": "887f096c-5b97-4439-b53d-109024caeeb5",
+      "name": "Ninja 978",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3663,
+      "viewed": false
+    },
+    {
+      "id": "3350c233-f8a0-4fd4-8e2d-ee231d7460bd",
+      "name": "Ninja 979",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3708,
+      "viewed": false
+    },
+    {
+      "id": "2db175a9-8ae4-4944-b2b9-5928935f8687",
+      "name": "Ninja 980",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4861,
+      "viewed": false
+    },
+    {
+      "id": "a1306a55-e42f-4d34-95f2-fc65f98de292",
+      "name": "Ninja 981",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4475,
+      "viewed": false
+    },
+    {
+      "id": "1255a6ae-708e-401b-8541-9b062b708b07",
+      "name": "Ninja 982",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 521,
+      "viewed": false
+    },
+    {
+      "id": "e5752dfe-63ec-48b1-8313-dc37ef43fdca",
+      "name": "Ninja 983",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9864,
+      "viewed": false
+    },
+    {
+      "id": "1282f53c-2b3d-4671-bda9-8d3713ebe2c7",
+      "name": "Ninja 984",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5223,
+      "viewed": false
+    },
+    {
+      "id": "99e9863d-d4e9-4e69-a697-d6e635940108",
+      "name": "Ninja 985",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4521,
+      "viewed": false
+    },
+    {
+      "id": "81800049-2351-43ea-a68b-c52d902fcba2",
+      "name": "Ninja 986",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1430,
+      "viewed": false
+    },
+    {
+      "id": "2bdabfc6-7978-4b96-9a58-482221291213",
+      "name": "Ninja 987",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4530,
+      "viewed": false
+    },
+    {
+      "id": "e17fbd58-f32a-4fbe-af67-0b5336e6fb0f",
+      "name": "Ninja 988",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2753,
+      "viewed": false
+    },
+    {
+      "id": "0e2bbc49-8379-4ba8-9a4f-3807189c31fd",
+      "name": "Ninja 989",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 524,
+      "viewed": false
+    },
+    {
+      "id": "10c35c27-0db6-4664-b968-1429384b2932",
+      "name": "Ninja 990",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3332,
+      "viewed": false
+    },
+    {
+      "id": "5d4d422f-86a3-40d2-af9d-1cfd1f012e5a",
+      "name": "Ninja 991",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5787,
+      "viewed": false
+    },
+    {
+      "id": "47508581-89d4-4c17-a112-0d71ae499ccd",
+      "name": "Ninja 992",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7252,
+      "viewed": false
+    },
+    {
+      "id": "d6372a6a-2175-4618-9452-7dd2da0bad51",
+      "name": "Ninja 993",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1736,
+      "viewed": false
+    },
+    {
+      "id": "c5eaa3d8-3b50-4185-9bdf-a4ef55ebad57",
+      "name": "Ninja 994",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2658,
+      "viewed": false
+    },
+    {
+      "id": "a2c5b5b4-fb05-4285-9cdf-da73386adb51",
+      "name": "Ninja 995",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5673,
+      "viewed": false
+    },
+    {
+      "id": "b2d74adf-498f-4cca-9151-2c2e89771823",
+      "name": "Ninja 996",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4655,
+      "viewed": false
+    },
+    {
+      "id": "c72de44c-680d-4bc0-a8a8-bf57fbbd1b76",
+      "name": "Ninja 997",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8768,
+      "viewed": false
+    },
+    {
+      "id": "fc34ddd3-bcb3-4b3f-8a62-f8f26e2a27e2",
+      "name": "Ninja 998",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9110,
+      "viewed": false
+    },
+    {
+      "id": "d210e46d-5d0b-4b6e-a600-ee40a563e33f",
+      "name": "Ninja 999",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1154,
+      "viewed": false
+    },
+    {
+      "id": "3a1c6b36-93a4-4dad-afd2-9e88c9fa8343",
+      "name": "Ninja 1000",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9422,
+      "viewed": false
+    }
+  ]
+}
