@@ -1,0 +1,8 @@
+{
+  "rewrites": [{ "source": "/characters", "destination": "/api/characters" }],
+  "functions": {
+    "api/characters.js": {
+      "includeFiles": "server/db.json"
+    }
+  }
+}
